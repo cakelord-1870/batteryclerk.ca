@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/cordless-phone-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-06-21T10:50:01-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783437242545</id>
+    <published>2021-06-21T10:50:01-04:00</published>
+    <updated>2021-06-21T10:50:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/nomad-24029x-4200-4226-4266-replacement-battery"/>
+    <title>Nomad 24029X 4200 4226 4266 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-UXE500CL-1_4aff3bb9-db41-47ce-be9a-e8e0b319615d.jpg?v=1624357459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Nomad Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 320mAh (0.32Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Nomad 24029X 4200 4226 4266 Replacement Batteries.</li>
+<li>Dimensions: 1.86 in. L x 1.83 in. W x 0.36 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Nomad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Nomad</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-UXE500CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783437242545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-UXE500CL.12</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783436947633</id>
+    <published>2021-06-21T10:49:53-04:00</published>
+    <updated>2021-06-21T10:49:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/philips-id-555-id-5551b-id-5552b-mc-163-500-replacement-battery"/>
+    <title>Philips ID 555 ID 5551B ID 5552B MC-163-500 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-P28115CL-1_23a24689-5dcf-4a12-8fa2-171a7609a58c.jpg?v=1624351084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            16.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Philips Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 500mAh (0.5Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Philips ID 555 ID 5551B ID 5552B MC-163-500 Replacement Batteries.</li>
+<li>Mfgr Part # 5-2762 5-2770 BF021P</li>
+<li>Dimensions: 1.69 in. L x 1.1 in. W x 0.16 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Philips.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Philips</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-P28115CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783436947633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.19</s:price>
+      <s:sku>CS-P28115CL.5</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780546089137</id>
+    <published>2021-06-18T19:36:23-04:00</published>
+    <updated>2021-06-18T19:36:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/uniross-87c-bc102906-replacement-battery"/>
+    <title>Uniross 87C BC102906 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-BTB500CL-1_9cf5eba9-a9c9-40b4-afab-cfdfe879607d.jpg?v=1624322026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Uniross Cordless Phone Battery</li>
+<li>Volts: 2.4V (2.4 Volts)</li>
+<li>Capacity: 600mAh (0.6Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Uniross  Replacement Batteries.</li>
+<li>Mfgr Part # 87C BC102906</li>
+<li>Dimensions: 1.77 in. L x 0.83 in. W x 0.39 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Uniross.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Uniross</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-BTB500CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780546089137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>CS-BTB500CL.12</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780545335473</id>
+    <published>2021-06-18T19:35:22-04:00</published>
+    <updated>2021-06-18T19:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/panasonic-kx-t34200r-kx-t3805-kx-t3807-kx-t3818-kx-replacement-battery"/>
+    <title>Panasonic KX-T34200R KX-T3805 KX-T3807 KX-T3818 KX Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-UXE500CL-1_5bff38af-c9af-4946-b898-a9310562970a.jpg?v=1624353312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Panasonic Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 320mAh (0.32Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Panasonic KX-T34200R KX-T3805 KX-T3807 KX-T3818 KX-T3822R KX-T3823R KX-T3832R KX-T4200H Replacement Batteries.</li>
+<li>Mfgr Part # 320BVH3TMU GP T115M P-P801 Type 7</li>
+<li>Dimensions: 1.86 in. L x 1.83 in. W x 0.36 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Panasonic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Panasonic</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-UXE500CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780545335473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-UXE500CL.14</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780544352433</id>
+    <published>2021-06-18T19:34:57-04:00</published>
+    <updated>2021-06-18T19:34:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/midland-er102-emergency-crank-weather-replacement-battery"/>
+    <title>Midland ER102 Emergency Crank Weather Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-ALD960CL-1_5b91a1c7-f62f-425e-9ff0-502bd8292d7f.jpg?v=1624364276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Midland Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 600mAh (0.6Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Midland ER102 Emergency Crank Weather Replacement Batteries.</li>
+<li>Dimensions: 1.68 in. L x 1.18 in. W x 0.57 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Midland.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Midland</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-ALD960CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780544352433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>CS-ALD960CL.4</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543566001</id>
+    <published>2021-06-18T19:34:36-04:00</published>
+    <updated>2021-06-18T19:34:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/essentiel-b-8001496-replacement-battery"/>
+    <title>Essentiel B 8001496 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VT6191CL-1_95b55602-9e84-4888-ac5a-e51d62447a1f.jpg?v=1624573860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            16.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Essentiel B Cordless Phone Battery</li>
+<li>Volts: 2.4V (2.4 Volts)</li>
+<li>Capacity: 300mAh (0.3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Essentiel B 8001496 Replacement Batteries.</li>
+<li>Dimensions: 1.17 in. L x 0.82 in. W x 0.42 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Essentiel B.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Essentiel B</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VT6191CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543566001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.19</s:price>
+      <s:sku>CS-VT6191CL.1</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779479031985</id>
+    <published>2021-06-17T21:32:16-04:00</published>
+    <updated>2021-06-17T21:32:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yealink-w53-w53p-replacement-battery"/>
+    <title>Yealink W53 W53P Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-YKW530CL-1.jpg?v=1624309584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yealink Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 900mAh (0.9Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Yealink W53 W53P Replacement Batteries.</li>
+<li>Mfgr Part # W53-BATT YLLP463346C800CLS</li>
+<li>Dimensions: 1.95 in. L x 1.33 in. W x 0.19 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yealink.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yealink</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-YKW530CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779479031985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-YKW530CL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779473985713</id>
+    <published>2021-06-17T21:31:08-04:00</published>
+    <updated>2021-06-17T21:31:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vodafone-phonefax-2395-wp-1130-wp-1233sms-wp-12sms-replacement-battery"/>
+    <title>Vodafone Phonefax 2395 WP-1130 WP-1233SMS WP-12SMS Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VDF113CL-1.jpg?v=1624312407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vodafone Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 400mAh (0.4Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Vodafone Phonefax 2395 WP-1130 WP-1233SMS WP-12SMS WP-2233SMS Replacement Batteries.</li>
+<li>Mfgr Part # F6M3EMX</li>
+<li>Dimensions: 1.95 in. L x 1.32 in. W x 0.26 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vodafone.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vodafone</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VDF113CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779473985713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-VDF113CL.2</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779462484145</id>
+    <published>2021-06-17T21:28:30-04:00</published>
+    <updated>2021-06-17T21:28:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/spectralink-8400-8450-8452-rs657-1800mah-replacement-battery"/>
+    <title>Spectralink 8400 8450 8452 RS657 1800mAh Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SPT845CL-1.jpg?v=1624330428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            42.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Spectralink Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Gray</li>
+<li>Spectralink 8400 8450 8452 RS657 Replacement Batteries.</li>
+<li>Mfgr Part # 1520-37214-001</li>
+<li>Dimensions: 2.57 in. L x 1.74 in. W x 0.63 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Spectralink.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Spectralink</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SPT845CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779462484145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.29</s:price>
+      <s:sku>CS-SPT845CL.2</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779459469489</id>
+    <published>2021-06-17T21:27:38-04:00</published>
+    <updated>2021-06-17T21:27:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/shoretel-ip930d-replacement-battery"/>
+    <title>Shoretel IP930D Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SHP930CL-1.jpg?v=1624334813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Shoretel Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1200mAh (1.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Shoretel IP930D Replacement Batteries.</li>
+<li>Mfgr Part # 10000058 300-1032 SH-10450</li>
+<li>Dimensions: 2.09 in. L x 1.33 in. W x 0.22 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Shoretel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Shoretel</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SHP930CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779459469489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-SHP930CL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779418738865</id>
+    <published>2021-06-17T21:18:12-04:00</published>
+    <updated>2021-06-17T21:18:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/polycom-spectralink-8400-spectralink-8450-1800mah-replacement-battery"/>
+    <title>Polycom Spectralink 8400 Spectralink 8450  1800mAh Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SPT845CL-1_1f6f0713-97dd-48fd-b535-ebab817aa19c.jpg?v=1624349988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            42.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Polycom Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Gray</li>
+<li>Polycom Spectralink 8400 Spectralink 8450 Spectralink 8452 Spectralink RS657 Replacement Batteries.</li>
+<li>Mfgr Part # 1520-37214-001</li>
+<li>Dimensions: 2.57 in. L x 1.74 in. W x 0.63 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Polycom.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Polycom</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SPT845CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779418738865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.29</s:price>
+      <s:sku>CS-SPT845CL.1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779412480177</id>
+    <published>2021-06-17T21:16:41-04:00</published>
+    <updated>2021-06-17T21:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/norstar-t7406-replacement-battery"/>
+    <title>Norstar T7406 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Norstar Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Black</li>
+<li>Norstar T7406 Replacement Batteries.</li>
+<li>Mfgr Part # A0845917 M7001 NTAB9682</li>
+<li>Dimensions: 2.91 in. L x 2.17 in. W x 0.75 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Norstar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Norstar</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-NTL746CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779412480177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-NTL746CL.1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779412447409</id>
+    <published>2021-06-17T21:16:41-04:00</published>
+    <updated>2021-06-17T21:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/nortel-t7406-replacement-battery"/>
+    <title>Nortel T7406 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Nortel Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Black</li>
+<li>Nortel T7406 Replacement Batteries.</li>
+<li>Mfgr Part # A0845917 M7001 NTAB9682</li>
+<li>Dimensions: 2.91 in. L x 2.17 in. W x 0.75 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Nortel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Nortel</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-NTL746CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779412447409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-NTL746CL.2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779410153649</id>
+    <published>2021-06-17T21:16:06-04:00</published>
+    <updated>2021-06-17T21:16:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/nec-mh240-replacement-battery"/>
+    <title>NEC MH240 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-NEH240CL-1.jpg?v=1624359722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a NEC Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1100mAh (1.1Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>NEC MH240 Replacement Batteries.</li>
+<li>Mfgr Part # 690021</li>
+<li>Dimensions: 2.19 in. L x 1.42 in. W x 0.22 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by NEC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_NEC</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-NEH240CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779410153649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-NEH240CL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779389378737</id>
+    <published>2021-06-17T21:10:17-04:00</published>
+    <updated>2021-06-17T21:10:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/huawei-ets5623-f202-f316-f317-f501-f516-f530-fp515-replacement-battery"/>
+    <title>Huawei ETS5623 F202 F316 F317 F501 F516 F530 FP515 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HUF530CL-4.jpg?v=1624440907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Huawei Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Huawei ETS5623 F202 F316 F317 F501 F516 F530 FP515H Replacement Batteries.</li>
+<li>Mfgr Part # HBL5AF HBMAAF</li>
+<li>Dimensions: 2.07 in. L x 1.31 in. W x 0.4 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Huawei.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Huawei</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HUF530CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779389378737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CS-HUF530CL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779380039857</id>
+    <published>2021-06-17T21:07:58-04:00</published>
+    <updated>2021-06-17T21:07:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/fritz-fon-c6-c6-dect-replacement-battery"/>
+    <title>Fritz!Fon C6 C6 DECT Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-FVC600CL-1.jpg?v=1624555471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Fritz!Fon Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1200mAh (1.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Fritz!Fon C6 C6 DECT Replacement Batteries.</li>
+<li>Mfgr Part # FRA051</li>
+<li>Dimensions: 2.09 in. L x 1.33 in. W x 0.22 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Fritz!Fon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Fritz!Fon</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-FVC600CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779380039857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-FVC600CL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779377221809</id>
+    <published>2021-06-17T21:07:21-04:00</published>
+    <updated>2021-06-17T21:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/engenius-durafon-1x-durafon-4x-durafon-pro-durawal-replacement-battery"/>
+    <title>Engenius DuraFon 1x DuraFon 4x DuraFon Pro Durawal Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            42.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Engenius Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Engenius DuraFon 1x DuraFon 4x DuraFon Pro Durawalkie SN902 SN-902 SN-902H SP922 SP-922 Pro SP9228 Replacement Batteries.</li>
+<li>Mfgr Part # RB-SP922-L</li>
+<li>Dimensions: 2.53 in. L x 1.45 in. W x 0.61 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Engenius.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Engenius</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EGX100CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779377221809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.29</s:price>
+      <s:sku>CS-EGX100CL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779365392561</id>
+    <published>2021-06-17T21:04:17-04:00</published>
+    <updated>2021-06-17T21:04:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/cisco-ccp-mic-wrls-s-us-cp-mic-wrls-replacement-battery"/>
+    <title>Cisco CCP-MIC-WRLS-S-US CP-MIC-WRLS Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CIP901CL-1.jpg?v=1624661261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Cisco Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 500mAh (0.5Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Cisco CCP-MIC-WRLS-S-US CP-MIC-WRLS Replacement Batteries.</li>
+<li>Mfgr Part # 4500044-00 74-111509-01 E472248</li>
+<li>Dimensions: 2.03 in. L x 1.02 in. W x 0.21 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Cisco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Cisco</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CIP901CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779365392561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-CIP901CL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779365327025</id>
+    <published>2021-06-17T21:04:15-04:00</published>
+    <updated>2021-06-17T21:04:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/cisco-8821-cp-8821-ex-k9-bun-cp-8821-k9-bu-2400mah-replacement-battery"/>
+    <title>Cisco 8821 CP-8821-EX-K9-BUN CP-8821-K9-BU 2400mAh Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CIP823CL-1.jpg?v=1624661288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Cisco Cordless Phone Battery</li>
+<li>Volts: 3.8V (3.8 Volts)</li>
+<li>Capacity: 2400mAh (2.4Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Cisco 8821 CP-8821-EX-K9-BUN CP-8821-K9-BUN Wireless IP Phone 8821 Replacement Batteries.</li>
+<li>Mfgr Part # 74-102376-01 CP-BATT-8821 GP-S10-374192-010H</li>
+<li>Dimensions: 4 in. L x 1.65 in. W x 0.17 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Cisco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Cisco</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CIP823CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779365327025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-CIP823CL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779365294257</id>
+    <published>2021-06-17T21:04:11-04:00</published>
+    <updated>2021-06-17T21:04:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/cisco-8800-2400mah-replacement-battery"/>
+    <title>Cisco 8800 2400mAh Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CIP881CL-1.jpg?v=1624661306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Cisco Cordless Phone Battery</li>
+<li>Volts: 3.8V (3.8 Volts)</li>
+<li>Capacity: 2400mAh (2.4Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Cisco 8800 Replacement Batteries.</li>
+<li>Mfgr Part # 74-102376-01 CP-BATT-8821 GP-S10-374192-010H</li>
+<li>Dimensions: 4.01 in. L x 1.65 in. W x 0.17 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Cisco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Cisco</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CIP881CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779365294257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-CIP881CL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779347632305</id>
+    <published>2021-06-17T20:59:52-04:00</published>
+    <updated>2021-06-17T20:59:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/agfeo-dect-20-replacement-battery"/>
+    <title>Agfeo Dect 20 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VDF113CL-1_75ce68f4-af8a-4b50-9963-bce5e910b289.jpg?v=1624816261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Agfeo Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 400mAh (0.4Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Agfeo Dect 20 Replacement Batteries.</li>
+<li>Mfgr Part # McNairF6M3EMX</li>
+<li>Dimensions: 1.95 in. L x 1.32 in. W x 0.26 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Agfeo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Agfeo</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VDF113CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779347632305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-VDF113CL.1</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779346419889</id>
+    <published>2021-06-17T20:59:39-04:00</published>
+    <updated>2021-06-17T20:59:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/aastra-420d-replacement-battery"/>
+    <title>Aastra 420d Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-ATR420CL-1.jpg?v=1624837712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Aastra Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 800mAh (0.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Aastra 420d Replacement Batteries.</li>
+<li>Mfgr Part # D1763-0000-02-03</li>
+<li>Dimensions: 2.09 in. L x 1.34 in. W x 0.19 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Aastra.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Aastra</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-ATR420CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779346419889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-ATR420CL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779341111473</id>
+    <published>2021-06-17T20:57:42-04:00</published>
+    <updated>2021-06-17T20:57:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/uniden-ae155-ae-155-ae156-ae-156-ex500-xe200-xe-20-replacement-battery"/>
+    <title>Uniden AE155 AE-155 AE156 AE-156 EX500 XE200 XE-20 Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-UXE500CL-1.jpg?v=1624322286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Uniden Cordless Phone Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 320mAh (0.32Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Uniden AE155 AE-155 AE156 AE-156 EX500 XE200 XE-200 XE300 XE-300 XE360 XE-360 XE400 XE-400 XE442 XE500 XE-500 XE550 XE-550 XE700 XE-700 Replacement Batteries.</li>
+<li>Mfgr Part # 320BVH3TMU GP T115M GP320BVH3TMS</li>
+<li>Dimensions: 1.86 in. L x 1.83 in. W x 0.36 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Uniden.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Uniden</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-UXE500CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779341111473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-UXE500CL.19</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779340521649</id>
+    <published>2021-06-17T20:57:24-04:00</published>
+    <updated>2021-06-17T20:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vertical-cp2001-ip-dect-rtx-ct8010-cordless-phone-replacement-battery"/>
+    <title>Vertical CP2001 IP DECT RTX CT8010 Cordless Phone Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TKA806CL-1_a02d76e5-1119-4aff-a8b9-8dc4e4ca2c04.jpg?v=1624316546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vertical Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1200mAh (1.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vertical CP2001 IP DECT RTX CT8010 Replacement Batteries.</li>
+<li>Dimensions: 2.09 in. L x 1.34 in. W x 0.22 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vertical.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vertical</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TKA806CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779340521649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-TKA806CL.14</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779340456113</id>
+    <published>2021-06-17T20:57:24-04:00</published>
+    <updated>2021-06-17T20:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-ip4100-cordless-phone-replacement-battery"/>
+    <title>Toshiba IP4100 Cordless Phone Replacement Battery</title>
+    <s:type>Cordless Phone</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TKA806CL-1_59723ac3-7d8b-4355-a68e-f937b0757add.jpg?v=1624323533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Cordless Phone<br>
+        <strong>Price: </strong>
+            18.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Cordless Phone Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 1200mAh (1.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Toshiba IP4100 Replacement Batteries.</li>
+<li>Mfgr Part # 10000060 RTR001F02</li>
+<li>Dimensions: 2.09 in. L x 1.34 in. W x 0.22 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TKA806CL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779340456113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.89</s:price>
+      <s:sku>CS-TKA806CL.12</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/vacuum-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-06-21T12:47:51-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783711346865</id>
+    <published>2021-06-21T12:47:51-04:00</published>
+    <updated>2021-06-21T12:47:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/e-ziclean-furtiv-3500mah-replacement-battery"/>
+    <title>E.Ziclean Furtiv 3500mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB002VX-1_70cfe17a-a83b-44ae-9b90-180783ae11d7.jpg?v=1624588574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a E.Ziclean Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>E.Ziclean Furtiv Replacement Batteries.</li>
+<li>Dimensions: 3.55 in. L x 2.74 in. W x 1.79 H in.</li>
+<li>Weight: 1.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by E.Ziclean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_E.Ziclean</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB002VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783711346865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-KSB002VX.4</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783711215793</id>
+    <published>2021-06-21T12:47:50-04:00</published>
+    <updated>2021-06-21T12:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/candy-hoover-rbc001011-rbc002011-rbc003011-3500mah-replacement-battery"/>
+    <title>Candy Hoover RBC001011 RBC002011 RBC003011 3500mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB002VX-1_f1de39b1-e9be-41f1-95db-4612a213ca34.jpg?v=1624679636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Candy Hoover Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Candy Hoover RBC001011 RBC002011 RBC003011 RBC003021 RBC0035011 RBC004B011 Robo RBC006011 RBC007B011 RBC009001 RBC009011 RBC009013 RBC011011 RBC012011 Replacement Batteries.</li>
+<li>Dimensions: 3.55 in. L x 2.74 in. W x 1.79 H in.</li>
+<li>Weight: 1.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Candy Hoover.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Candy Hoover</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB002VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783711215793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-KSB002VX.2</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783710003377</id>
+    <published>2021-06-21T12:47:36-04:00</published>
+    <updated>2021-06-21T12:47:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/amtidy-a325-mini-3500mah-replacement-battery"/>
+    <title>Amtidy A325 Mini 3500mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB002VX-1.jpg?v=1624793523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Amtidy Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Amtidy A325 Mini Replacement Batteries.</li>
+<li>Dimensions: 3.55 in. L x 2.74 in. W x 1.79 H in.</li>
+<li>Weight: 1.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Amtidy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Amtidy</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB002VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783710003377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-KSB002VX.1</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783709708465</id>
+    <published>2021-06-21T12:47:34-04:00</published>
+    <updated>2021-06-21T12:47:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/e-ziclean-furtiv-2000mah-replacement-battery"/>
+    <title>E.Ziclean Furtiv 2000mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB001VX-1_579ac8d5-3918-4407-b900-ca5e67c1b455.jpg?v=1624588601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a E.Ziclean Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>E.Ziclean Furtiv Replacement Batteries.</li>
+<li>Dimensions: 3.62 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by E.Ziclean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_E.Ziclean</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB001VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783709708465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-KSB001VX.4</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783709610161</id>
+    <published>2021-06-21T12:47:32-04:00</published>
+    <updated>2021-06-21T12:47:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/candy-hoover-rbc001011-rbc002011-rbc003011-2000mah-replacement-battery"/>
+    <title>Candy Hoover RBC001011 RBC002011 RBC003011 2000mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB001VX-1_f0622002-7a0a-4da0-983c-95b508163832.jpg?v=1624679648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Candy Hoover Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Candy Hoover RBC001011 RBC002011 RBC003011 RBC003021 RBC0035011 RBC004B011 Robo RBC006011 RBC007B011 RBC009001 RBC009011 RBC009013 RBC011011 RBC012011 Replacement Batteries.</li>
+<li>Dimensions: 3.62 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Candy Hoover.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Candy Hoover</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB001VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783709610161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-KSB001VX.2</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783709544625</id>
+    <published>2021-06-21T12:47:32-04:00</published>
+    <updated>2021-06-21T12:47:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/amtidy-a325-mini-2000mah-replacement-battery"/>
+    <title>Amtidy A325 Mini 2000mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB001VX-1.jpg?v=1624793606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Amtidy Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Amtidy A325 Mini Replacement Batteries.</li>
+<li>Dimensions: 3.62 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Amtidy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Amtidy</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB001VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783709544625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-KSB001VX.1</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783435014321</id>
+    <published>2021-06-21T10:49:16-04:00</published>
+    <updated>2021-06-21T10:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/klarstein-210xr-cleantouch-210xr-cleantouc-3500mah-replacement-battery"/>
+    <title>Klarstein 210XR Cleantouch 210XR Cleantouc 3500mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB002VX-1_69d0f652-52b1-40b7-a8b7-609953314d37.jpg?v=1624397200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Klarstein Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Klarstein 210XR Cleantouch 210XR Cleantouch KV8 210C KV8 210C Saugroboter Replacement Batteries.</li>
+<li>Dimensions: 3.55 in. L x 2.74 in. W x 1.79 H in.</li>
+<li>Weight: 1.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Klarstein.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Klarstein</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB002VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783435014321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-KSB002VX.9</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6783434784945</id>
+    <published>2021-06-21T10:49:10-04:00</published>
+    <updated>2021-06-21T10:49:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/klarstein-210xr-cleantouch-210xr-cleantouc-2000mah-replacement-battery"/>
+    <title>Klarstein 210XR Cleantouch 210XR Cleantouc 2000mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB001VX-1_cd364b94-0b09-469a-88b6-eb6fe4d230fd.jpg?v=1624397281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Klarstein Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Klarstein 210XR Cleantouch 210XR Cleantouch KV8 210C KV8 210C Saugroboter Replacement Batteries.</li>
+<li>Dimensions: 3.62 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Klarstein.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Klarstein</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB001VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6783434784945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-KSB001VX.9</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780545040561</id>
+    <published>2021-06-18T19:35:09-04:00</published>
+    <updated>2021-06-18T19:35:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/mygenie-xr210-xr210-nestor-3500mah-replacement-battery"/>
+    <title>Mygenie XR210 XR210 Nestor 3500mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB002VX-1_89ed858c-f4c8-4b49-8537-fe425c13303a.jpg?v=1624360765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Mygenie Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Mygenie XR210 XR210 Nestor Replacement Batteries.</li>
+<li>Dimensions: 3.55 in. L x 2.74 in. W x 1.79 H in.</li>
+<li>Weight: 1.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Mygenie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mygenie</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB002VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780545040561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-KSB002VX.12</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780544909489</id>
+    <published>2021-06-18T19:35:06-04:00</published>
+    <updated>2021-06-18T19:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/mygenie-xr210-xr210-nestor-2000mah-replacement-battery"/>
+    <title>Mygenie XR210 XR210 Nestor 2000mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSB001VX-1_7a986b58-8bcc-468d-a271-9c636bbd06bc.jpg?v=1624360769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            57.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Mygenie Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Mygenie XR210 XR210 Nestor Replacement Batteries.</li>
+<li>Dimensions: 3.62 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Mygenie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mygenie</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSB001VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780544909489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.19</s:price>
+      <s:sku>CS-KSB001VX.12</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543893681</id>
+    <published>2021-06-18T19:34:44-04:00</published>
+    <updated>2021-06-18T19:34:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/infinuvo-hovo-510-hovo-510-plus-iqx-510-replacement-battery"/>
+    <title>Infinuvo Hovo 510 Hovo 510 Plus IQX-510 Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SBR210VX-1_9da13d80-6d6e-4b4e-b86a-b221382a1e31.jpg?v=1624421800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            65.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Infinuvo Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3000mAh (3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Infinuvo Hovo 510 Hovo 510 Plus IQX-510 Replacement Batteries.</li>
+<li>Dimensions: 3.51 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Infinuvo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Infinuvo</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SBR210VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543893681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.39</s:price>
+      <s:sku>CS-SBR210VX.3</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543598769</id>
+    <published>2021-06-18T19:34:37-04:00</published>
+    <updated>2021-06-18T19:34:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/eufy-robovac-11-robovac-11s-replacement-battery"/>
+    <title>Eufy RoboVac 11 RoboVac 11s Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HAT560VX-1_6349f49f-005a-468a-88e1-b981f2e3be6d.jpg?v=1624573100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Eufy Vacuum Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 2600mAh (2.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Blue</li>
+<li>Eufy RoboVac 11 RoboVac 11s Replacement Batteries.</li>
+<li>Dimensions: 2.77 in. L x 1.46 in. W x 1.45 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Eufy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Eufy</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HAT560VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543598769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>CS-HAT560VX.1</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543500465</id>
+    <published>2021-06-18T19:34:33-04:00</published>
+    <updated>2021-06-18T19:34:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/dirt-devil-fusion-libero-m607-spider-m607-spider-w-replacement-battery"/>
+    <title>Dirt Devil Fusion Libero M607 Spider M607 Spider w Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-DML608VX-1_59c14937-3887-4475-9fda-f5ef23500cbf.jpg?v=1624606395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Dirt Devil Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Dirt Devil Fusion Libero M607 Spider M607 Spider wie M610 M610 TRENDYROT M611 M611 FUSION M612 Spider M612 SPIDER 2.0 M612 Spider wie M613 Puck Spider Replacement Batteries.</li>
+<li>Mfgr Part # 0606004 R1-L051B</li>
+<li>Dimensions: 3.93 in. L x 1.69 in. W x 1.15 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Dirt Devil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Dirt Devil</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-DML608VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543500465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku>CS-DML608VX.2</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543008945</id>
+    <published>2021-06-18T19:34:19-04:00</published>
+    <updated>2021-06-18T19:34:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/carneo-710-770-replacement-battery"/>
+    <title>Carneo 710 770 Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SBR210VX-1_dc32b02c-ef67-4c8d-ae01-b374750625f1.jpg?v=1624672794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            65.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Carneo Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3000mAh (3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Carneo 710 770 Replacement Batteries.</li>
+<li>Dimensions: 3.51 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Carneo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Carneo</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SBR210VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543008945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.39</s:price>
+      <s:sku>CS-SBR210VX.2</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780542845105</id>
+    <published>2021-06-18T19:34:12-04:00</published>
+    <updated>2021-06-18T19:34:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/bobsweep-017144-tn-bobi-classic-bobi-pet-robotic-v-replacement-battery"/>
+    <title>Bobsweep 017144-TN bObi Classic BObi Pet Robotic V Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SBR210VX-1_cacfa7fe-d278-4d86-bf76-a837d53b49ee.jpg?v=1624694062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            65.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Bobsweep Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 3000mAh (3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Bobsweep 017144-TN bObi Classic BObi Pet Robotic Vacuum Cleane BQBS1000 BQBS1003 Replacement Batteries.</li>
+<li>Dimensions: 3.51 in. L x 2.65 in. W x 1.76 H in.</li>
+<li>Weight: 1.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Bobsweep.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Bobsweep</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SBR210VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780542845105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.39</s:price>
+      <s:sku>CS-SBR210VX.1</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779474182321</id>
+    <published>2021-06-17T21:31:11-04:00</published>
+    <updated>2021-06-17T21:31:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/water-tech-pool-blaster-max-cg-replacement-battery"/>
+    <title>Water Tech Pool Blaster Max CG Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-PBM630VX-1.jpg?v=1624311956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            61.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Water Tech Vacuum Battery</li>
+<li>Volts: 9.6V (9.6 Volts)</li>
+<li>Capacity: 3000mAh (3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Water Tech Pool Blaster Max CG Replacement Batteries.</li>
+<li>Mfgr Part # 9630-BHPB</li>
+<li>Dimensions: 3.65 in. L x 3.37 in. W x 1.02 H in.</li>
+<li>Weight: 1.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Water Tech.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Water Tech</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-PBM630VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779474182321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.59</s:price>
+      <s:sku>CS-PBM630VX</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472249009</id>
+    <published>2021-06-17T21:30:44-04:00</published>
+    <updated>2021-06-17T21:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vileda-quick-amp-clean-vi409842-2600mah-replacement-battery"/>
+    <title>Vileda Quick &amp;amp Clean VI409842 2600mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VDC842VX-1.jpg?v=1624313595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vileda Vacuum Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 2600mAh (2.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vileda Quick &amp;amp Clean VI409842 Replacement Batteries.</li>
+<li>Mfgr Part # 8654396211</li>
+<li>Dimensions: 2.61 in. L x 0.83 in. W x 0.74 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vileda.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vileda</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VDC842VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472249009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-VDC842VX</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472216241</id>
+    <published>2021-06-17T21:30:44-04:00</published>
+    <updated>2021-06-17T21:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vileda-quick-amp-clean-vi409842-3400mah-replacement-battery"/>
+    <title>Vileda Quick &amp;amp Clean VI409842 3400mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VDC843VX-1.jpg?v=1624313591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            34.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vileda Vacuum Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 3400mAh (3.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vileda Quick &amp;amp Clean VI409842 Replacement Batteries.</li>
+<li>Mfgr Part # 8654396211</li>
+<li>Dimensions: 2.61 in. L x 0.83 in. W x 0.74 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vileda.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vileda</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VDC843VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472216241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.69</s:price>
+      <s:sku>CS-VDC843VX</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779468415153</id>
+    <published>2021-06-17T21:29:52-04:00</published>
+    <updated>2021-06-17T21:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-vc-rcx1-vc-rv1-vc-rv2-vc-rvd1-vc-rvd2-vc-r-replacement-battery"/>
+    <title>Toshiba VC-RCX1 VC-RV1 VC-RV2 VC-RVD1 VC-RVD2 VC-R Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TRX100VX-1.jpg?v=1624323176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2600mAh (2.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Toshiba VC-RCX1 VC-RV1 VC-RV2 VC-RVD1 VC-RVD2 VC-RVS2 Replacement Batteries.</li>
+<li>Mfgr Part # 41479021 RB3-P</li>
+<li>Dimensions: 3.09 in. L x 1.95 in. W x 1.76 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TRX100VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779468415153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-TRX100VX</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779468218545</id>
+    <published>2021-06-17T21:29:50-04:00</published>
+    <updated>2021-06-17T21:29:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-vc-j1x-replacement-battery"/>
+    <title>Toshiba VC-J1X Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TVC100VX-1.jpg?v=1624323182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            122.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Vacuum Battery</li>
+<li>Volts: 19.2V (19.2 Volts)</li>
+<li>Capacity: 3700mAh (3.7Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Blue</li>
+<li>Toshiba VC-J1X Replacement Batteries.</li>
+<li>Mfgr Part # TH-4 3APT-16</li>
+<li>Dimensions: 5.31 in. L x 2.77 in. W x 1.35 H in.</li>
+<li>Weight: 2.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TVC100VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779468218545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.99</s:price>
+      <s:sku>CS-TVC100VX</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466219697</id>
+    <published>2021-06-17T21:29:30-04:00</published>
+    <updated>2021-06-17T21:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/tesvor-v300-x500-x500-pro-3400mah-replacement-battery"/>
+    <title>Tesvor V300 X500 X500 Pro 3400mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EDN621VX-1.jpg?v=1624326299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Tesvor Vacuum Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 3400mAh (3.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Blue</li>
+<li>Tesvor V300 X500 X500 Pro Replacement Batteries.</li>
+<li>Dimensions: 2.76 in. L x 1.46 in. W x 1.46 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Tesvor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Tesvor</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EDN621VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466219697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-EDN621VX.3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466154161</id>
+    <published>2021-06-17T21:29:30-04:00</published>
+    <updated>2021-06-17T21:29:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/tesvor-v300-x500-x500-pro-2600mah-replacement-battery"/>
+    <title>Tesvor V300 X500 X500 Pro 2600mAh Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EDN620VX-1.jpg?v=1624326298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Tesvor Vacuum Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 2600mAh (2.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Blue</li>
+<li>Tesvor V300 X500 X500 Pro Replacement Batteries.</li>
+<li>Dimensions: 2.73 in. L x 1.46 in. W x 1.46 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Tesvor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Tesvor</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EDN620VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466154161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>CS-EDN620VX.3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779459698865</id>
+    <published>2021-06-17T21:27:42-04:00</published>
+    <updated>2021-06-17T21:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sichler-pcr-7000-replacement-battery"/>
+    <title>Sichler PCR-7000 Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SPR700VX-1.jpg?v=1624334781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            70.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Sichler Vacuum Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 5200mAh (5.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Blue</li>
+<li>Sichler PCR-7000 Replacement Batteries.</li>
+<li>Mfgr Part # NX-6080-919</li>
+<li>Dimensions: 5.33 in. L x 1.46 in. W x 1.46 H in.</li>
+<li>Weight: 1.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Sichler.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Sichler</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SPR700VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779459698865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.99</s:price>
+      <s:sku>CS-SPR700VX</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779459567793</id>
+    <published>2021-06-17T21:27:39-04:00</published>
+    <updated>2021-06-17T21:27:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sichler-pr-025-pr-030-pr-041-pr-127-replacement-battery"/>
+    <title>Sichler PR-025 PR-030 PR-041 PR-127 Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SPR127VX-1.jpg?v=1624334769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            34.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Sichler Vacuum Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Sichler PR-025 PR-030 PR-041 PR-127 Replacement Batteries.</li>
+<li>Mfgr Part # PL062018-2S</li>
+<li>Dimensions: 2 in. L x 1.34 in. W x 0.8 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Sichler.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Sichler</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SPR127VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779459567793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.69</s:price>
+      <s:sku>CS-SPR127VX</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779459535025</id>
+    <published>2021-06-17T21:27:38-04:00</published>
+    <updated>2021-06-17T21:27:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sichler-pcr-7500-replacement-battery"/>
+    <title>Sichler PCR-7500 Replacement Battery</title>
+    <s:type>Vacuum</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SPR750VX-1.jpg?v=1624334766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Vacuum<br>
+        <strong>Price: </strong>
+            74.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Sichler Vacuum Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Blue</li>
+<li>Sichler PCR-7500 Replacement Batteries.</li>
+<li>Mfgr Part # NX-3368-919</li>
+<li>Dimensions: 2.74 in. L x 1.46 in. W x 1.46 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Sichler.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Sichler</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SPR750VX</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779459535025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.49</s:price>
+      <s:sku>CS-SPR750VX</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

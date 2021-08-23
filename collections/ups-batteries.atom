@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/ups-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2019-05-14T17:10:23-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/1789997219883</id>
+    <published>2019-05-14T17:10:23-04:00</published>
+    <updated>2019-05-14T17:10:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbc55-ups-replacement-battery"/>
+    <title>APC RBC55 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D18S_d496c183-483c-448a-aef1-a991104251d5.jpg?v=1620623913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            58.89 - 78.89
+            <a href="https://batteryclerk.ca/products/apc-rbc55-ups-replacement-battery">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D18S</s:tag>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBC55</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789997219883</id>
+      <title>18Ah</title>
+      <s:price currency="CAD">58.89</s:price>
+      <s:sku>CA-AJC-D18S-X-4-185192</s:sku>
+      <s:grams>4900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789997219883</id>
+      <title>22Ah</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-X-4-185193</s:sku>
+      <s:grams>4900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1789997088811</id>
+    <published>2019-05-14T17:09:43-04:00</published>
+    <updated>2019-05-14T17:09:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbc142-ups-replacement-battery"/>
+    <title>APC RBC142 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_743b22b2-193b-47b1-b7e2-135712b543c3.jpg?v=1620623913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-rbc142-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBC142 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBC142</li>
+<li>Number of batteries required for full replacement: 2</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBC142</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789997088811</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-2-185189</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789997088811</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-2-185190</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789997088811</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-2-185191</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1789997023275</id>
+    <published>2019-05-14T17:09:40-04:00</published>
+    <updated>2019-05-14T17:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbc140-ups-replacement-battery"/>
+    <title>APC RBC140 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D5S-F2_da816744-f875-46e3-b083-d36b50297706.jpg?v=1620623911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBC140 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBC140</li>
+<li>Number of batteries required for full replacement: 16</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 3.54 in</li>
+<li>Width 2.76 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D5S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBC140</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789997023275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku>CA-AJC-D5S-F2-X-16-185188</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1789996990507</id>
+    <published>2019-05-14T17:09:37-04:00</published>
+    <updated>2019-05-14T17:09:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbc133-ups-replacement-battery"/>
+    <title>APC RBC133 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_33cb3012-5be1-4a90-9bed-f0f6381ba63f.jpg?v=1620623908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-rbc133-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBC133 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBC133</li>
+<li>Number of batteries required for full replacement: 2</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBC133</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789996990507</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-2-185184</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789996990507</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-2-185185</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1789996990507</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-2-185186</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1515697864747</id>
+    <published>2018-09-24T09:28:10-04:00</published>
+    <updated>2018-09-24T09:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbcap5-ups-replacement-battery"/>
+    <title>APC RBCAP5 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-C4.5S_1a180334-40c3-4608-a980-0eefa15fefbd.jpg?v=1620621673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            11.69 - 13.39
+            <a href="https://batteryclerk.ca/products/apc-rbcap5-ups-replacement-battery">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBCAP5 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBCAP5</li>
+<li>Number of batteries required for full replacement: 3</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 2.76 in</li>
+<li>Width 1.85 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-C5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-C4.5S</s:tag>
+    <s:tag>AJC-C5S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBCAP5</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697864747</id>
+      <title>4.5Ah</title>
+      <s:price currency="CAD">11.69</s:price>
+      <s:sku>CA-AJC-C4.5S-X-3-185144</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697864747</id>
+      <title>5Ah</title>
+      <s:price currency="CAD">13.39</s:price>
+      <s:sku>CA-AJC-C5S-X-3-185145</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1515697831979</id>
+    <published>2018-09-24T09:28:10-04:00</published>
+    <updated>2018-09-24T09:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbcap4-ups-replacement-battery"/>
+    <title>APC RBCAP4 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-C4.5S_debad067-cbb9-47cd-91c6-6a10a2847633.jpg?v=1620621671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            11.69 - 13.39
+            <a href="https://batteryclerk.ca/products/apc-rbcap4-ups-replacement-battery">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBCAP4 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBCAP4</li>
+<li>Number of batteries required for full replacement: 4</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 2.76 in</li>
+<li>Width 1.85 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-C5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-C4.5S</s:tag>
+    <s:tag>AJC-C5S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBCAP4</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697831979</id>
+      <title>4.5Ah</title>
+      <s:price currency="CAD">11.69</s:price>
+      <s:sku>CA-AJC-C4.5S-X-4-185146</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697831979</id>
+      <title>5Ah</title>
+      <s:price currency="CAD">13.39</s:price>
+      <s:sku>CA-AJC-C5S-X-4-185147</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1515697799211</id>
+    <published>2018-09-24T09:28:09-04:00</published>
+    <updated>2018-09-24T09:28:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbc9-ups-replacement-battery"/>
+    <title>APC RBC9 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_a2892d27-cb64-4748-8e4b-0563957a30bc.jpg?v=1620621678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-rbc9-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBC9 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBC9</li>
+<li>Number of batteries required for full replacement: 2</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBC9</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697799211</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-2-185139</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697799211</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-2-185140</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1515697799211</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-2-185141</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329820237867</id>
+    <published>2018-05-15T15:46:58-04:00</published>
+    <updated>2018-05-15T15:46:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-9-ups-replacement-battery"/>
+    <title>APC SYMMETRA 9 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_a7575c45-57d5-40e7-bda7-35b1551499b0.jpg?v=1620621667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-symmetra-9-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 9 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 9</li>
+<li>Number of batteries required for full replacement: 90</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 9</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329820237867</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-90-185181</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329820237867</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-90-185182</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329820237867</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-90-185183</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819680811</id>
+    <published>2018-05-15T15:46:58-04:00</published>
+    <updated>2018-05-15T15:46:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-7-ups-replacement-battery"/>
+    <title>APC SYMMETRA 7 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_e2de5da1-6963-4268-8ef1-d16b99c8bf52.jpg?v=1620621660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-symmetra-7-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 7 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 7</li>
+<li>Number of batteries required for full replacement: 32</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 7</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819680811</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-32-185178</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819680811</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-32-185179</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819680811</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-32-185180</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819779115</id>
+    <published>2018-05-15T15:46:57-04:00</published>
+    <updated>2018-05-15T15:46:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-6-ups-replacement-battery"/>
+    <title>APC SYMMETRA 6 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_37552f0e-dcbd-4d93-91cd-e0294e4b47b9.jpg?v=1620621661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-symmetra-6-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 6 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 6</li>
+<li>Number of batteries required for full replacement: 30</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 6</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819779115</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-30-185175</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819779115</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-30-185176</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819779115</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-30-185177</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329820041259</id>
+    <published>2018-05-15T15:46:56-04:00</published>
+    <updated>2018-05-15T15:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-8-ups-replacement-battery"/>
+    <title>APC SYMMETRA 8 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_c7935485-a608-4f12-8238-c189bd474a35.jpg?v=1620621668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-symmetra-8-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 8 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 8</li>
+<li>Number of batteries required for full replacement: 40</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 8</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329820041259</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-40-185168</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329820041259</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-40-185169</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329820041259</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-40-185170</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819910187</id>
+    <published>2018-05-15T15:46:56-04:00</published>
+    <updated>2018-05-15T15:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-5-ups-replacement-battery"/>
+    <title>APC SYMMETRA 5 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_55a4d075-62ae-447f-92ce-e5c2c1987a03.jpg?v=1620621665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-symmetra-5-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 5 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 5</li>
+<li>Number of batteries required for full replacement: 20</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 5</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819910187</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-20-185172</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819910187</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-20-185173</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819910187</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-20-185174</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819648043</id>
+    <published>2018-05-15T15:46:56-04:00</published>
+    <updated>2018-05-15T15:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-3-ups-replacement-battery"/>
+    <title>APC SYMMETRA 3 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D5S-F2_1a21ee2b-4329-47e0-90f3-1e72c7e201ea.jpg?v=1620621656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 3 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 3</li>
+<li>Number of batteries required for full replacement: 30</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 3.54 in</li>
+<li>Width 2.76 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D5S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 3</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819648043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku>CA-AJC-D5S-F2-X-30-185171</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819615275</id>
+    <published>2018-05-15T15:46:55-04:00</published>
+    <updated>2018-05-15T15:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-2-ups-replacement-battery"/>
+    <title>APC SYMMETRA 2 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D5S-F2_bb1630f1-5a8f-4dad-a47a-8b8b18b8feef.jpg?v=1620621655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 2 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 2</li>
+<li>Number of batteries required for full replacement: 20</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 3.54 in</li>
+<li>Width 2.76 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D5S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 2</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819615275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku>CA-AJC-D5S-F2-X-20-185166</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819025451</id>
+    <published>2018-05-15T15:46:54-04:00</published>
+    <updated>2018-05-15T15:46:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-1-ups-replacement-battery"/>
+    <title>APC SYMMETRA 1 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D5S-F2_e80867b8-3cdc-4516-ab0c-c1e3dcb6ea07.jpg?v=1620621643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 1 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 1</li>
+<li>Number of batteries required for full replacement: 10</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 3.54 in</li>
+<li>Width 2.76 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D5S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 1</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819025451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku>CA-AJC-D5S-F2-X-10-185167</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819844651</id>
+    <published>2018-05-15T15:46:53-04:00</published>
+    <updated>2018-05-15T15:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-symmetra-4-ups-replacement-battery"/>
+    <title>APC SYMMETRA 4 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_bf97a320-4f50-4804-a696-bd2fc2e3c242.jpg?v=1620621661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-symmetra-4-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYMMETRA 4 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYMMETRA 4</li>
+<li>Number of batteries required for full replacement: 10</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYMMETRA 4</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819844651</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-10-185159</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819844651</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-10-185160</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819844651</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-10-185161</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819484203</id>
+    <published>2018-05-15T15:46:53-04:00</published>
+    <updated>2018-05-15T15:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-sybt5-ups-replacement-battery"/>
+    <title>APC SYBT5 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_f8cd6200-00a0-487a-85e6-ff57abd93590.jpg?v=1620621659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-sybt5-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYBT5 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYBT5</li>
+<li>Number of batteries required for full replacement: 10</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYBT5</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819484203</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-10-185162</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819484203</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-10-185163</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819484203</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-10-185164</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819385899</id>
+    <published>2018-05-15T15:46:53-04:00</published>
+    <updated>2018-05-15T15:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-sybt4-ups-replacement-battery"/>
+    <title>APC SYBT4 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_df346d57-f584-4889-b552-c75c0cec769e.jpg?v=1620621651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-sybt4-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYBT4 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYBT4</li>
+<li>Number of batteries required for full replacement: 32</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYBT4</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819385899</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-32-185156</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819385899</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-32-185157</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819385899</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-32-185158</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819451435</id>
+    <published>2018-05-15T15:46:52-04:00</published>
+    <updated>2018-05-15T15:46:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-sybt3-ups-replacement-battery"/>
+    <title>APC SYBT3 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_1bb7a022-b1cc-4813-85c2-b4297793461e.jpg?v=1620621655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-sybt3-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYBT3 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYBT3</li>
+<li>Number of batteries required for full replacement: 10</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYBT3</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819451435</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-10-185153</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819451435</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-10-185154</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819451435</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-10-185155</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819123755</id>
+    <published>2018-05-15T15:46:52-04:00</published>
+    <updated>2018-05-15T15:46:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-slb10k80fxr6-ups-replacement-battery"/>
+    <title>APC SLB10K80FXR6 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D100S_76163183-38ab-45ac-9665-1d4199c6aef1.jpg?v=1620621648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            311.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SLB10K80FXR6 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SLB10K80FXR6</li>
+<li>Number of batteries required for full replacement: 6</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 13.07 in</li>
+<li>Width 6.89 in</li>
+<li>Height 8.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D100S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D100S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SLB10K80FXR6</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819123755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>CA-AJC-D100S-X-6-185165</s:sku>
+      <s:grams>31300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819353131</id>
+    <published>2018-05-15T15:46:51-04:00</published>
+    <updated>2018-05-15T15:46:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-sybtu1-plp-ups-replacement-battery"/>
+    <title>APC SYBTU1-PLP UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_326066ea-d9cf-443c-9178-0f44ebbb10d9.jpg?v=1620621653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-sybtu1-plp-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYBTU1-PLP RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYBTU1-PLP</li>
+<li>Number of batteries required for full replacement: 8</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYBTU1-PLP</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819353131</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-8-185148</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819353131</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-8-185149</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819353131</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-8-185150</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819156523</id>
+    <published>2018-05-15T15:46:49-04:00</published>
+    <updated>2018-05-15T15:46:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-sybt2-ups-replacement-battery"/>
+    <title>APC SYBT2 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D5S-F2_a6bdc390-d2b7-4709-a815-816b3708d29d.jpg?v=1620621649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            20.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC SYBT2 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # SYBT2</li>
+<li>Number of batteries required for full replacement: 10</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 3.54 in</li>
+<li>Width 2.76 in</li>
+<li>Height 3.98 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D5S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D5S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>SYBT2</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819156523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.89</s:price>
+      <s:sku>CA-AJC-D5S-F2-X-10-185142</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329819090987</id>
+    <published>2018-05-15T15:46:49-04:00</published>
+    <updated>2018-05-15T15:46:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbcap3-ups-replacement-battery"/>
+    <title>APC RBCAP3 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-C10S_2e485408-7aef-41a3-b5ce-83d6ce1bd674.jpg?v=1620621650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            20.79 - 21.89
+            <a href="https://batteryclerk.ca/products/apc-rbcap3-ups-replacement-battery">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBCAP3 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBCAP3</li>
+<li>Number of batteries required for full replacement: 4</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.01 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-C12S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-C10S</s:tag>
+    <s:tag>AJC-C12S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBCAP3</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819090987</id>
+      <title>10Ah</title>
+      <s:price currency="CAD">20.79</s:price>
+      <s:sku>CA-AJC-C10S-X-4-185151</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329819090987</id>
+      <title>12Ah</title>
+      <s:price currency="CAD">21.89</s:price>
+      <s:sku>CA-AJC-C12S-X-4-185152</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329818697771</id>
+    <published>2018-05-15T15:46:48-04:00</published>
+    <updated>2018-05-15T15:46:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbcap1-ups-replacement-battery"/>
+    <title>APC RBCAP1 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D26S_1e1b2c83-d523-4acc-999e-9ab2cdc36429.jpg?v=1620621638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBCAP1 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBCAP1</li>
+<li>Number of batteries required for full replacement: 2</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 6.5 in</li>
+<li>Width 6.89 in</li>
+<li>Height 5 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D26S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D26S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBCAP1</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329818697771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku>CA-AJC-D26S-X-2-185143</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/1329818501163</id>
+    <published>2018-05-15T15:46:47-04:00</published>
+    <updated>2018-05-15T15:46:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/apc-rbc8-ups-replacement-battery"/>
+    <title>APC RBC8 UPS Replacement Battery</title>
+    <s:type>RBC</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D7S-F2_4f4e2095-e54a-4c28-8a27-79c077412d65.jpg?v=1620621639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RBC<br>
+        <strong>Price: </strong>
+            24.29 - 31.99
+            <a href="https://batteryclerk.ca/products/apc-rbc8-ups-replacement-battery">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with APC RBC8 RBC Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by APC<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # RBC8</li>
+<li>Number of batteries required for full replacement: 4</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/battery-catridge-replacement" target="_blank" title="RBC Battery Replacement" rel="noopener noreferrer">Click here for RBC battery resources:</a><ul>
+<li>Replacing Your RBC Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RBC Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D7S-F2</s:tag>
+    <s:tag>AJC-D8S-F2</s:tag>
+    <s:tag>AJC-D9S-F2</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_APC</s:tag>
+    <s:tag>RBC8</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329818501163</id>
+      <title>7Ah</title>
+      <s:price currency="CAD">24.29</s:price>
+      <s:sku>CA-AJC-D7S-F2-X-4-185136</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329818501163</id>
+      <title>8Ah</title>
+      <s:price currency="CAD">29.39</s:price>
+      <s:sku>CA-AJC-D8S-F2-X-4-185137</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/1329818501163</id>
+      <title>9Ah</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-F2-X-4-185138</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

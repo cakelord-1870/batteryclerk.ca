@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/laptop-and-notebook-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-06-21T15:54:49-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6784110723249</id>
+    <published>2021-06-21T15:54:49-04:00</published>
+    <updated>2021-06-21T15:54:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/trogon-e12-series-black-6600mah-replacement-battery"/>
+    <title>Trogon E12 Series Black 6600mAh Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SP500HB-1_321ecc4c-eeea-49ec-ae2b-106c7dc308ce.jpg?v=1624322684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            100.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Trogon Laptop and Notebook Battery</li>
+<li>Volts: 10.8V (10.8 Volts)</li>
+<li>Capacity: 6600mAh (6.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Trogon E12 Series Replacement Batteries.</li>
+<li>Mfgr Part # DR202 EMC36 ME202BB NL2020 SMP02</li>
+<li>Dimensions: 5.85 in. L x 3.5 in. W x 0.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Trogon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Trogon</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SP500HB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6784110723249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.49</s:price>
+      <s:sku>CS-SP500HB.40</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6784110592177</id>
+    <published>2021-06-21T15:54:40-04:00</published>
+    <updated>2021-06-21T15:54:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/trigem-tekbook-822-black-6600mah-replacement-battery"/>
+    <title>Trigem TekBook 822 Black 6600mAh Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SP500HB-1_b1b6b1f1-4eaa-4084-9c25-f403622e5da5.jpg?v=1624322904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            100.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Trigem Laptop and Notebook Battery</li>
+<li>Volts: 10.8V (10.8 Volts)</li>
+<li>Capacity: 6600mAh (6.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Trigem TekBook 822 Replacement Batteries.</li>
+<li>Mfgr Part # DR202 EMC36 ME202BB NL2020 SMP02</li>
+<li>Dimensions: 5.85 in. L x 3.5 in. W x 0.76 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Trigem.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Trigem</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SP500HB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6784110592177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.49</s:price>
+      <s:sku>CS-SP500HB.39</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6784110166193</id>
+    <published>2021-06-21T15:54:18-04:00</published>
+    <updated>2021-06-21T15:54:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/dell-precision-7330-precision-7530-p-black-7900mah-replacement-battery"/>
+    <title>Dell Precision 7330 Precision 7530 P Black 7900mAh Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-DEP733NB-1.jpg?v=1624616930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            153.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Dell Laptop and Notebook Battery</li>
+<li>Volts: 7.6V (7.6 Volts)</li>
+<li>Capacity: 7900mAh (7.9Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Dell Precision 7330 Precision 7530 Precision 7540 Replacement Batteries.</li>
+<li>Mfgr Part # 0H6K6V 0RY3F9 0VRX0J 0WMRC77I 5TF10 7M0T6 GHXKY NYFJH P34E001 P34E002 P74F P74F001 P74F002 RY3F9</li>
+<li>Dimensions: 8.75 in. L x 3.19 in. W x 0.42 H in.</li>
+<li>Weight: 0.9 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Dell.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Dell</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-DEP733NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6784110166193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">153.99</s:price>
+      <s:sku>CS-DEP733NB</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780544123057</id>
+    <published>2021-06-18T19:34:51-04:00</published>
+    <updated>2021-06-18T19:34:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/lenovo-thinkpad-x1-carbon-2019-thinkpad-x1-3250mah-replacement-battery"/>
+    <title>Lenovo ThinkPad X1 Carbon 2019 ThinkPad X1 3250mAh Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-LVX219NB-1.jpg?v=1624370706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            131.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Lenovo Laptop and Notebook Battery</li>
+<li>Volts: 15.36V (15.36 Volts)</li>
+<li>Capacity: 3250mAh (3.25Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Lenovo ThinkPad X1 Carbon 2019 ThinkPad X1 Carbon 2019-20QE00 ThinkPad X1 Carbon 2020 ThinkPad X1 Carbon 2020-20UAS0 ThinkPad X1 Carbon 8th Gen ThinkPad X1 Carbon G7 2020 ThinkPad X1 Carbon G7 20R1-000 Replacement Batteries.</li>
+<li>Mfgr Part # 02DL005 5B10W13931 L18C4P72 L18L4P72 L18M4P72 L18S4P72 SB10K97643 SB10T83174</li>
+<li>Dimensions: 10.39 in. L x 4.32 in. W x 0.2 H in.</li>
+<li>Weight: 1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Lenovo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Lenovo</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-LVX219NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780544123057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">131.59</s:price>
+      <s:sku>CS-LVX219NB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543991985</id>
+    <published>2021-06-18T19:34:48-04:00</published>
+    <updated>2021-06-18T19:34:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/lenovo-thinkpad-x1-carbon-2019-thinkpad-x1-3200mah-replacement-battery"/>
+    <title>Lenovo ThinkPad X1 Carbon 2019 ThinkPad X1 3200mAh Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-LVX710NB-1.jpg?v=1624370705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            126.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Lenovo Laptop and Notebook Battery</li>
+<li>Volts: 15.36V (15.36 Volts)</li>
+<li>Capacity: 3200mAh (3.2Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Lenovo ThinkPad X1 Carbon 2019 ThinkPad X1 Carbon 7th Replacement Batteries.</li>
+<li>Mfgr Part # 02DL006 4ICP5 41 110 L18C4P71 SB10K97644 SB10T83175</li>
+<li>Dimensions: 10.33 in. L x 4.31 in. W x 0.2 H in.</li>
+<li>Weight: 0.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Lenovo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Lenovo</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-LVX710NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543991985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.49</s:price>
+      <s:sku>CS-LVX710NB</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543533233</id>
+    <published>2021-06-18T19:34:35-04:00</published>
+    <updated>2021-06-18T19:34:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/emachine-e528-e528-2221-e528-2325-e528-2445-e528-2-replacement-battery"/>
+    <title>Emachine E528 E528-2221 E528-2325 E528-2445 E528-2 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-AC5634NB-1_66b7989e-0348-4b0d-a236-f89308cab778.jpg?v=1624581316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Emachine Laptop and Notebook Battery</li>
+<li>Volts: 11.1V (11.1 Volts)</li>
+<li>Capacity: 4400mAh (4.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Emachine E528 E528-2221 E528-2325 E528-2445 E528-2821 E728 E728-453G32MNKK Replacement Batteries.</li>
+<li>Dimensions: 8.02 in. L x 1.89 in. W x 1.07 H in.</li>
+<li>Weight: 1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Emachine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Emachine</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-AC5634NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543533233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-AC5634NB.2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779477622961</id>
+    <published>2021-06-17T21:31:56-04:00</published>
+    <updated>2021-06-17T21:31:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/xiaomi-mi-ruby-15-6-replacement-battery"/>
+    <title>Xiaomi MI Ruby 15.6 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            131.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Xiaomi Laptop and Notebook Battery</li>
+<li>Volts: 15.4V (15.4 Volts)</li>
+<li>Capacity: 2500mAh (2.5Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Xiaomi MI Ruby 15.6 Replacement Batteries.</li>
+<li>Mfgr Part # N15B01W</li>
+<li>Dimensions: 12.2 in. L x 3.36 in. W x 0.29 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Xiaomi.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Xiaomi</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-XMR156NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779477622961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">131.59</s:price>
+      <s:sku>CS-XMR156NB</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779476541617</id>
+    <published>2021-06-17T21:31:41-04:00</published>
+    <updated>2021-06-17T21:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/xiaomi-inchmi-aair-13-3-mi-notebook-air-13-3-2018-replacement-battery"/>
+    <title>Xiaomi Inchmi Aair 13.3 Mi Notebook Air 13.3 2018 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-XMR130NB-1.jpg?v=1624310396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            83.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Xiaomi Laptop and Notebook Battery</li>
+<li>Volts: 7.6V (7.6 Volts)</li>
+<li>Capacity: 5250mAh (5.25Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Xiaomi Inchmi Aair 13.3 Mi Notebook Air 13.3 2018 Replacement Batteries.</li>
+<li>Mfgr Part # R13B01W R13B02W</li>
+<li>Dimensions: 11.22 in. L x 2.67 in. W x 0.28 H in.</li>
+<li>Weight: 1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Xiaomi.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Xiaomi</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-XMR130NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779476541617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.09</s:price>
+      <s:sku>CS-XMR130NB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779476410545</id>
+    <published>2021-06-17T21:31:40-04:00</published>
+    <updated>2021-06-17T21:31:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/xiaomi-171502-ad-171502-ai-171502-ak-171502-am-171-replacement-battery"/>
+    <title>Xiaomi 171502-AD 171502-AI 171502-AK 171502-AM 171 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-XMR730NB-1.jpg?v=1624310570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            91.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Xiaomi Laptop and Notebook Battery</li>
+<li>Volts: 15.2V (15.2 Volts)</li>
+<li>Capacity: 3500mAh (3.5Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Xiaomi 171502-AD 171502-AI 171502-AK 171502-AM 171502-AN 171502-AO Gaming Laptop 7300HQ 1050Ti Gaming Laptop 7300HQ 1060 gaming laptop 8th gen i7Intel gaming laptop i7 gtx 1060 GTX1060 Intel I7 Mi Gaming Laptop 2019 Replacement Batteries.</li>
+<li>Mfgr Part # G15B01W G15BO1W</li>
+<li>Dimensions: 8.69 in. L x 4.35 in. W x 0.43 H in.</li>
+<li>Weight: 0.9 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Xiaomi.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Xiaomi</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-XMR730NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779476410545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">91.79</s:price>
+      <s:sku>CS-XMR730NB</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779475984561</id>
+    <published>2021-06-17T21:31:34-04:00</published>
+    <updated>2021-06-17T21:31:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/wooking-17t5-replacement-battery"/>
+    <title>Wooking 17T5 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CLB500NB-1.jpg?v=1624310826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            121.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Wooking Laptop and Notebook Battery</li>
+<li>Volts: 10.8V (10.8 Volts)</li>
+<li>Capacity: 4200mAh (4.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Wooking 17T5 Replacement Batteries.</li>
+<li>Dimensions: 8.17 in. L x 2.05 in. W x 0.81 H in.</li>
+<li>Weight: 1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Wooking.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Wooking</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CLB500NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779475984561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>CS-CLB500NB.5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779474018481</id>
+    <published>2021-06-17T21:31:09-04:00</published>
+    <updated>2021-06-17T21:31:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vulcan-4k-t1-t2-t2-4k-gt-replacement-battery"/>
+    <title>Vulcan 4k T1 T2 T2 4K GT Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MRX600NB-1.jpg?v=1624312078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            121.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vulcan Laptop and Notebook Battery</li>
+<li>Volts: 10.8V (10.8 Volts)</li>
+<li>Capacity: 4400mAh (4.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vulcan 4k T1 T2 T2 4K GT Replacement Batteries.</li>
+<li>Dimensions: 5.43 in. L x 3.24 in. W x 0.8 H in.</li>
+<li>Weight: 1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vulcan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vulcan</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MRX600NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779474018481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>CS-MRX600NB.5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779470250161</id>
+    <published>2021-06-17T21:30:18-04:00</published>
+    <updated>2021-06-17T21:30:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/tuxedo-galago-pro-2-infinity-book-pro-14v3-infinit-replacement-battery"/>
+    <title>Tuxedo Galago Pro 2 Infinity Book Pro 14v3 Infinit Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CLN310NB-1.jpg?v=1624322568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            116.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Tuxedo Laptop and Notebook Battery</li>
+<li>Volts: 11.4V (11.4 Volts)</li>
+<li>Capacity: 2600mAh (2.6Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Tuxedo Galago Pro 2 Infinity Book Pro 14v3 InfinityBook Pro 13 InfinityBook Pro 13 N130BU InfinityBook Pro 13 v2 InfinityBook Pro 14 System76 Galago Pro System76 Galago Pro 3 Replacement Batteries.</li>
+<li>Dimensions: 7.14 in. L x 3.37 in. W x 0.4 H in.</li>
+<li>Weight: 0.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Tuxedo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Tuxedo</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CLN310NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779470250161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">116.09</s:price>
+      <s:sku>CS-CLN310NB.3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779468153009</id>
+    <published>2021-06-17T21:29:49-04:00</published>
+    <updated>2021-06-17T21:29:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-portege-r30-portege-r300-portege-r30a-port-replacement-battery"/>
+    <title>Toshiba Portege R30 Portege R300 Portege R30A Port Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TOR300NB-1.jpg?v=1624323391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            79.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Laptop and Notebook Battery</li>
+<li>Volts: 11.1V (11.1 Volts)</li>
+<li>Capacity: 4400mAh (4.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Silver</li>
+<li>Toshiba Portege R30 Portege R300 Portege R30A Portege R30-A Portege R30-A-10H Portege R30-A-10R Portege R30-A-111 Portege R30-A-112 Portege R30-A-114 Portege R30-A-11J Portege R30-A-11K Portege R30-A-11M Portege R30-A-11N Portege R30-A-11P Portege R30-A-11Q Portege R30-A-121 Portege R30-A-129 Portege R30-A-12J Portege R30-A-12V Portege R30-A-130 Portege R30-A1301 Portege R30-A1302 Portege R30-A-131 Portege R30-A1310 Portege R30-A1320 Portege R30-A-134 Portege R30-A-137 Portege R30-A-138 Portege R30-A-139 Portege R30-A-13C Portege R30-A-13D Portege R30-A-13E Portege R30-A-13T Portege R30-A-13V Portege R30-A-13W Portege R30-A-13X Portege R30-A-140 Portege R30-A-145 Portege R30-A-146 Portege R30-A-147 Portege R30-A-149 Portege R30-A-14C Portege R30-A-14D Portege R30-A-14G Portege R30-A-14K Portege R30-A-14V Portege R30-A-14X Portege R30-A-152 Portege R30-A-154 Portege R30-A-155 Portege R30-A-156 Portege R30-A-157 Portege R30-A-159 Portege R30-A-15C Portege R30-A-15D Portege R30-A-15E Portege R30-A-15M Portege R30-A-15N Portege R30-A-15P Portege R30-A-15T Portege R30-A-16G Portege R30-A-16K Portege R30-A-16T Portege R30-A-16U Portege R30-A-16W Portege R30-A-173 Portege R30-A-174 Portege R30-A-175 Portege R30-A-176 Portege R30-A-17C Portege R30-A-17D Portege R30-A-17E Portege R30-A-17G Portege R30-A-17H Portege R30-A-17J Portege R30-A-17K Portege R30-A-17P Portege R30-A-17R Portege R30-A-17T Portege R30-A-189 Portege R30-A-18G Portege R30-A-18P Portege R30-A-191 Portege R30-A-196 Portege R30-A-19D Portege R30-A-19E Portege R30-A-19G Portege R30-A-19H Portege R30-A-19J Portege R30-A-19K Portege R30-A-19L Portege R30-A-19M Portege R30-A-19P Portege R30-A-19Q Portege R30-A-19R Portege R30-A-19V Portege R30-A-1C0 Portege R30-A-1C4 Portege R30-A-1C5 Portege R30-A-1C7 Portege R30-A-1C9 Portege R30-A-1CD Portege R30-A-1CE Portege R30-A-1CK Portege R30-A-1CL Portege R30-A-1CM Portege R30-A-1CN Portege R30-A-1CP Portege R30-A-1CQ Portege R30-A-1CW Portege R30-A-1CZ Portege R30-A-1D1 Portege R30-A-1D3 Portege R30-A-1D5 Portege R30-A-1D9 Portege R30-A-1DC Portege R30-A-1DJ Portege R30-A-1DK Portege R30-A-1DL Portege R30-A-1DM Portege R30-A-1DP Portege R30-A-1DR Portege R30-A-1E9 Portege R30-A-1ER Portege R30-A-1ET Portege R30-A-1EZ Portege R30-A-1F7 Portege R30-A-1FH Portege R30-A-1FL Portege R30-A-1FM Portege R30-A-1GJ Portege R30-A-1GP Portege R30-A-1HE Portege R30-A-1HJ Portege R30-A-1HQ Portege R30-A-1J1 Portege R30-A-1J3 Portege R30-A3101L Portege R30-A3102L Portege R30-A-6 Portege R30-AK01B Portege R30-AK03B Portege R30-AK40B Portege R30-ASMBN22 Portege R30-BT1300 Replacement Batteries.</li>
+<li>Mfgr Part # PA3524U-1BAS PA3524U-1BRS PA3525U-1BAL PA3525U-1BRL PA5161U-1BRS PA5162U-1BRS PA5163U-1BRS PA5174U-1BRS PABAS094 PABAS095 PABAS277 PABAS278 PABAS280</li>
+<li>Dimensions: 8.15 in. L x 1.91 in. W x 1.57 H in.</li>
+<li>Weight: 1.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TOR300NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779468153009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.69</s:price>
+      <s:sku>CS-TOR300NB</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779468120241</id>
+    <published>2021-06-17T21:29:49-04:00</published>
+    <updated>2021-06-17T21:29:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-satellite-click-mini-l9w-b-satelli-5100mah-replacement-battery"/>
+    <title>Toshiba Satellite Click Mini L9W-B Satelli 5100mAh Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TOL910NB-1.jpg?v=1624323316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Laptop and Notebook Battery</li>
+<li>Volts: 3.75V (3.75 Volts)</li>
+<li>Capacity: 5100mAh (5.1Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Toshiba Satellite Click Mini L9W-B Satellite Click Mini L9W-B 8.9 Satellite Click Mini L9W-B-100 Satellite Click Mini L9W-B-102 Satellite Click Mini L9W-B-103 Satellite Click Mini L9W-B-107 Replacement Batteries.</li>
+<li>Mfgr Part # A000381560 T10TC T8T-2</li>
+<li>Dimensions: 4.81 in. L x 4.93 in. W x 0.17 H in.</li>
+<li>Weight: 0.5 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TOL910NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779468120241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-TOL910NB</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779468021937</id>
+    <published>2021-06-17T21:29:48-04:00</published>
+    <updated>2021-06-17T21:29:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-kira-13-kirabook-kira-101-kira-102-kira-10-replacement-battery"/>
+    <title>Toshiba KIRA 13 Kirabook KIRA-101 KIRA-102 KIRA-10 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TOK130NB-1.jpg?v=1624323508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            90.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Laptop and Notebook Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 3300mAh (3.3Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Toshiba KIRA 13 Kirabook KIRA-101 KIRA-102 KIRA-10D KIRA-AT01S Kirabook U930t-B PSU8SA-00C006 PSU8SA-00C00T PSU8SA-00T00U PSU8SA-00U00T PSU8SA-00V00U PSUC1A-002005 PSUC1A-007005 PSUC1A-00E010 PSUC2A-003009 Satellite Pro PSKJPA-00E00U Satellite Pro PSKK3A-001001 Satellite Pro PSKK7A-002002 Satellite Pro PSKK7A-002002-85 Satellite Pro PSKK7A-006003 Satellite PSKHAA-01D00N Satellite PSKHEA-00M007 Satellite PSKHEA-00T008 Satellite PSKHWA-005003 Satellite PSKJNA-028010 Satellite PSKKWA-00J006 Satellite PSKKWA-00K006 Satellite PSKKWA-00L007 Satellite PSKKWA-00M007 Satellite PSKL6A-00R004 Satellite PSKL6A-013004 Satellite PSKLAA-002001 Satellite PSKLAA-013001 Satellite PSKLAA-030001 Satellite PSKLAA-033001 Satellite PSKLEA-00D001 Satellite PSKLEA-00M001 Satellite PSKLNA-00P001 Satellite PSKLNA-00V001 Satellite PSKLNA-01Q00J Satellite PSKLNA-01R00J Satellite PSKLWA-004001 Satellite PSKLWA-005001 Satellite PSKLWA-006002 Satellite PSKLWA-009002 Satellite PSKM2A-008005 Satellite PSKM2A-009005 Satellite PSKM2A-00G005 Satellite PSPMHA-01300L Satellite PSPMHA-01600L Satellite PSPMHA-01C00L Satellite PSPMHA-01D00L Satellite PSPMHA-09M04S Satellite PSPMHA-0DP04S Satellite PSPMHA-0EE04S Satellite PSPNUA-00G00R Satellite PSPNUA-02N00R Satellite PSPNVA-00R00N Satellite PSPNVA-01000N Satellite PSPNVA-01E00N Satellite PSPNVA-01R00N Satellite PSPNVA-04100N Replacement Batteries.</li>
+<li>Mfgr Part # G71C000GG110 P000592540 P000673860 PA5160U-1BRS</li>
+<li>Dimensions: 11.46 in. L x 5 in. W x 0.3 H in.</li>
+<li>Weight: 1.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TOK130NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779468021937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.09</s:price>
+      <s:sku>CS-TOK130NB</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779467989169</id>
+    <published>2021-06-17T21:29:48-04:00</published>
+    <updated>2021-06-17T21:29:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-p30w-b-10e-satellite-click-2-pro-p30w-b-1-replacement-battery"/>
+    <title>Toshiba P30W-B-10E Satellite Click 2 Pro P30W-B-1 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TOP352NB-1.jpg?v=1624323473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            109.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Laptop and Notebook Battery</li>
+<li>Volts: 11.1V (11.1 Volts)</li>
+<li>Capacity: 2200mAh (2.2Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Toshiba P30W-B-10E Satellite Click 2 Pro P30W-B-1 Replacement Batteries.</li>
+<li>Mfgr Part # PA5191U-1BRS</li>
+<li>Dimensions: 8.77 in. L x 4.05 in. W x 0.16 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TOP352NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779467989169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.09</s:price>
+      <s:sku>CS-TOP352NB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779467858097</id>
+    <published>2021-06-17T21:29:47-04:00</published>
+    <updated>2021-06-17T21:29:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-dynabook-n514-satellite-nb10-satellite-nb1-replacement-battery"/>
+    <title>Toshiba Dynabook N514 Satellite NB10 Satellite NB1 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TON514NB-1.jpg?v=1624323855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            95.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Laptop and Notebook Battery</li>
+<li>Volts: 11.1V (11.1 Volts)</li>
+<li>Capacity: 2200mAh (2.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Toshiba Dynabook N514 Satellite NB10 Satellite NB10-A Satellite NB10t Satellite NB10t-A Satellite NB15 Satellite NB15-A Satellite NB15t Satellite NB15t-A Satellite Pro NB10 Satellite Pro NB10-A Satellite Pro NB10t Satellite Pro NB10t-A Satellite Pro NB15 Satellite Pro NB15-A Satellite Pro NB15t Series TOS Replacement Batteries.</li>
+<li>Mfgr Part # PA5170U-1BRS PA5207U-1BRS PABAS279 PABAS282</li>
+<li>Dimensions: 8.14 in. L x 1.42 in. W x 0.84 H in.</li>
+<li>Weight: 0.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TON514NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779467858097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.29</s:price>
+      <s:sku>CS-TON514NB</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779467825329</id>
+    <published>2021-06-17T21:29:47-04:00</published>
+    <updated>2021-06-17T21:29:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/toshiba-cb30-102-cb35-a3120-chromebook-chromebook-replacement-battery"/>
+    <title>Toshiba CB30-102 CB35-A3120 Chromebook Chromebook  Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TOC310NB-1.jpg?v=1624324009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            105.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Toshiba Laptop and Notebook Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 3300mAh (3.3Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Toshiba CB30-102 CB35-A3120 Chromebook Chromebook CB30-100 Chromebook CB30-102 Chromebook CB30-A3120 ChromeBook CB35-A3120 Replacement Batteries.</li>
+<li>Mfgr Part # PA5171U-1BRS</li>
+<li>Dimensions: 10.98 in. L x 5.06 in. W x 0.35 H in.</li>
+<li>Weight: 1.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Toshiba.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Toshiba</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TOC310NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779467825329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.69</s:price>
+      <s:sku>CS-TOC310NB</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466940593</id>
+    <published>2021-06-17T21:29:39-04:00</published>
+    <updated>2021-06-17T21:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-st-pro-st-pro-670016g512g10606gws-st-p-replacement-battery"/>
+    <title>Thunderobot ST Pro ST Pro-670016G512G10606GWS ST P Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CLP650NB-1.jpg?v=1624326030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            128.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 4000mAh (4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Thunderobot ST Pro ST Pro-670016G512G10606GWS ST Pro-P1 ST-Pro ST-R3 Replacement Batteries.</li>
+<li>Dimensions: 8.73 in. L x 3.9 in. W x 0.59 H in.</li>
+<li>Weight: 1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CLP650NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466940593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">128.19</s:price>
+      <s:sku>CS-CLP650NB.9</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466842289</id>
+    <published>2021-06-17T21:29:37-04:00</published>
+    <updated>2021-06-17T21:29:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-g170p-g170p-47108g1tg8808g-replacement-battery"/>
+    <title>Thunderobot G170P G170P-47108G1TG8808G Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CLP170NB-1.jpg?v=1624326024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            116.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 14.8V (14.8 Volts)</li>
+<li>Capacity: 5200mAh (5.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Thunderobot G170P G170P-47108G1TG8808G Replacement Batteries.</li>
+<li>Dimensions: 5.58 in. L x 4.05 in. W x 0.83 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CLP170NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466842289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">116.09</s:price>
+      <s:sku>CS-CLP170NB.7</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466809521</id>
+    <published>2021-06-17T21:29:37-04:00</published>
+    <updated>2021-06-17T21:29:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-911st-st-r1-st-r2-st-r3-replacement-battery"/>
+    <title>Thunderobot 911ST ST-R1 ST-R2 ST-R3 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-THP407NB-1.jpg?v=1624326041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            105.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 11.1V (11.1 Volts)</li>
+<li>Capacity: 3850mAh (3.85Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Thunderobot 911ST ST-R1 ST-R2 ST-R3 Replacement Batteries.</li>
+<li>Mfgr Part # 6-87-P640S-4231A P640BAT-3</li>
+<li>Dimensions: 8.16 in. L x 3.62 in. W x 0.55 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-THP407NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466809521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.69</s:price>
+      <s:sku>CS-THP407NB.3</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466743985</id>
+    <published>2021-06-17T21:29:37-04:00</published>
+    <updated>2021-06-17T21:29:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-g150-g150mg-4716gs1t-g150mg-478g1t-g15-replacement-battery"/>
+    <title>Thunderobot G150 G150MG-4716GS1T G150MG-478G1T G15 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CLW650NB-1.jpg?v=1624326036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 11.1V (11.1 Volts)</li>
+<li>Capacity: 4400mAh (4.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Thunderobot G150 G150MG-4716GS1T G150MG-478G1T G150P G150P-47108G1TG8808G G150P-47108G1TG9706G G150S G150S-42108G1T9502G G150S-47104G500G9502G G150SA G150SA-4716GS1T G150SA-478G1T G150SG G150TB G150TB-474G500JD G150TC G150TC-4716GS1T G150TC-478G1T G150TH G150TH-4716GS1T G150TH-478G1T Replacement Batteries.</li>
+<li>Dimensions: 10.59 in. L x 1.99 in. W x 0.79 H in.</li>
+<li>Weight: 1.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CLW650NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466743985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>CS-CLW650NB.7</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466645681</id>
+    <published>2021-06-17T21:29:36-04:00</published>
+    <updated>2021-06-17T21:29:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-911-targa-911-targa-b5ta-911-targa-t5t-replacement-battery"/>
+    <title>Thunderobot 911 Targa 911 Targa B5Ta 911 Targa T5T Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-THR911NB-1.jpg?v=1624326055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            131.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 11.4V (11.4 Volts)</li>
+<li>Capacity: 5200mAh (5.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Thunderobot 911 Targa 911 Targa B5Ta 911 Targa T5TB 911 Targa T6a 911 Targa T6b 911 Targa T6c 911 Targa T6d 911 Targa-B85 Targa 911 T5TB Targa 911 T6C Targa 911 T6D Replacement Batteries.</li>
+<li>Mfgr Part # G15g</li>
+<li>Dimensions: 9.27 in. L x 3.52 in. W x 0.43 H in.</li>
+<li>Weight: 0.9 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-THR911NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466645681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">131.59</s:price>
+      <s:sku>CS-THR911NB.3</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466580145</id>
+    <published>2021-06-17T21:29:35-04:00</published>
+    <updated>2021-06-17T21:29:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-911-turbo-911-e1-911-e1a-911-e1b-911-e-replacement-battery"/>
+    <title>Thunderobot 911 Turbo 911-E1 911-E1A 911-E1B 911-E Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-THD911NB-1.jpg?v=1624326053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            126.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 14.4V (14.4 Volts)</li>
+<li>Capacity: 5100mAh (5.1Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Thunderobot 911 Turbo 911-E1 911-E1A 911-E1B 911-E1c 911-E1d 911GT 911GT-Y1 911GT-Y2 911GT-Y3 911GT-Y3A 911M 911-M 911M-47208G1T9602G 911M-M1 911M-M1A 911M-M1C 911M-M2 911M-M2A 911M-M2b 911M-M3 911M-M3A 911M-M4 911M-M5 911M-M5A 911-S1 911-S1g 911-S2 911-S2A 911-S2b 911-S2C 911-S2D 911-S2e 911-S2g 911-S2K 911-S3 911-S5A 911-S5TA 911-T1 911-T1a 911-T1B 911-T1c 911-T2 911-T2a 911-T2C 911-T3 JT009200S Replacement Batteries.</li>
+<li>Mfgr Part # SQU-1406</li>
+<li>Dimensions: 12.99 in. L x 4.29 in. W x 0.74 H in.</li>
+<li>Weight: 1.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-THD911NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466580145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.49</s:price>
+      <s:sku>CS-THD911NB</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779466514609</id>
+    <published>2021-06-17T21:29:34-04:00</published>
+    <updated>2021-06-17T21:29:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/thunderobot-911-air-911air-911m-911me-911mt-911s-9-replacement-battery"/>
+    <title>Thunderobot 911 Air 911Air 911M 911ME 911MT 911S 9 Replacement Battery</title>
+    <s:type>Laptop and Notebook</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-THA911NB-1.jpg?v=1624326065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Laptop and Notebook<br>
+        <strong>Price: </strong>
+            126.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Thunderobot Laptop and Notebook Battery</li>
+<li>Volts: 11.55V (11.55 Volts)</li>
+<li>Capacity: 4500mAh (4.5Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Thunderobot 911 Air 911Air 911M 911ME 911MT 911S 911Targa G7000M G8000M Replacement Batteries.</li>
+<li>Mfgr Part # SQU-1711</li>
+<li>Dimensions: 8.01 in. L x 3.56 in. W x 0.29 H in.</li>
+<li>Weight: 0.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Thunderobot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Thunderobot</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-THA911NB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779466514609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.49</s:price>
+      <s:sku>CS-THA911NB</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+</feed>

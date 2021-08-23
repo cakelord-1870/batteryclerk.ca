@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/two-way-radio-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-06-18T19:34:45-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543926449</id>
+    <published>2021-06-18T19:34:45-04:00</published>
+    <updated>2021-06-18T19:34:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/hytera-tc-800m-tc-700-tc-700u-tc-700v-tc-7-1600mah-replacement-battery"/>
+    <title>Hytera TC 800M TC-700 TC-700U TC-700V TC-7 1600mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HTC700TW-1_a4a992d2-28b6-444d-afc6-f1ffc807cdc6.jpg?v=1624903682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            44.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Hytera Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1600mAh (1.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Hytera TC 800M TC-700 TC-700U TC-700V TC-710 TC-720 TC-780. TC-780M TC-780U TC-780V Replacement Batteries.</li>
+<li>Dimensions: 4.13 in. L x 2.28 in. W x 0.71 H in.</li>
+<li>Weight: 0.5 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Hytera.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Hytera</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HTC700TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543926449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.49</s:price>
+      <s:sku>CS-HTC700TW.2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543828145</id>
+    <published>2021-06-18T19:34:42-04:00</published>
+    <updated>2021-06-18T19:34:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/hytera-tc-800m-tc-700-tc-700u-tc-700v-tc-7-2000mah-replacement-battery"/>
+    <title>Hytera TC 800M TC-700 TC-700U TC-700V TC-7 2000mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HTC710TW-1_7497a2b3-a702-4f91-98e6-3583930f9237.jpg?v=1624903681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            46.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Hytera Two Way Radio Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Black</li>
+<li>Hytera TC 800M TC-700 TC-700U TC-700V TC-710 TC-720 TC-780. TC-780M TC-780U TC-780V Replacement Batteries.</li>
+<li>Dimensions: 4.33 in. L x 2.2 in. W x 1.43 H in.</li>
+<li>Weight: 0.9 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Hytera.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Hytera</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HTC710TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543828145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.59</s:price>
+      <s:sku>CS-HTC710TW.2</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780542746801</id>
+    <published>2021-06-18T19:34:08-04:00</published>
+    <updated>2021-06-18T19:34:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/bendix-king-regency-rpu3000-regency-rpu3600-regenc-replacement-battery"/>
+    <title>Bendix King Regency RPU3000 Regency RPU3600 Regenc Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HTC300TW-1.jpg?v=1624718771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Bendix King Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Bendix King Regency RPU3000 Regency RPU3600 Regency RPV3000 Regency RPV3600 RPU3000 RPU3600 RPV3000 RPV3600 Replacement Batteries.</li>
+<li>Mfgr Part # BPRP1700</li>
+<li>Dimensions: 3.9 in. L x 2.22 in. W x 1.23 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Bendix King.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Bendix King</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HTC300TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780542746801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>CS-HTC300TW.1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779478212785</id>
+    <published>2021-06-17T21:32:05-04:00</published>
+    <updated>2021-06-17T21:32:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yaesu-ft-1dr-ft-2dr-ft-3d-ft-8dr-vx-8dr-vx-8gr-vx-replacement-battery"/>
+    <title>Yaesu FT-1DR FT-2DR FT-3D FT-8DR VX-8DR VX-8GR VX- Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-FVX800TW-1.jpg?v=1624309921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            50.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yaesu Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Yaesu FT-1DR FT-2DR FT-3D FT-8DR VX-8DR VX-8GR VX-8R Replacement Batteries.</li>
+<li>Mfgr Part # SBR-14 SBR-14Li</li>
+<li>Dimensions: 4.15 in. L x 2.28 in. W x 1.12 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yaesu.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yaesu</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-FVX800TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779478212785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.79</s:price>
+      <s:sku>CS-FVX800TW</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779478114481</id>
+    <published>2021-06-17T21:32:03-04:00</published>
+    <updated>2021-06-17T21:32:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yaesu-ft-4ve-ft-4vr-ft-4vx-ft-4xe-ft-4xr-replacement-battery"/>
+    <title>Yaesu FT-4VE FT-4VR FT-4VX FT-4XE FT-4XR Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-FVX400TW-1.jpg?v=1624309893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            42.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yaesu Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1750mAh (1.75Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Yaesu FT-4VE FT-4VR FT-4VX FT-4XE FT-4XR Replacement Batteries.</li>
+<li>Mfgr Part # SBR-28 SBR-28Li</li>
+<li>Dimensions: 3.11 in. L x 2.03 in. W x 0.57 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yaesu.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yaesu</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-FVX400TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779478114481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.29</s:price>
+      <s:sku>CS-FVX400TW</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779478048945</id>
+    <published>2021-06-17T21:32:02-04:00</published>
+    <updated>2021-06-17T21:32:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yaesu-ft-25r-ft-65r-fta-250l-2500mah-replacement-battery"/>
+    <title>Yaesu FT-25R FT-65R FTA-250L 2500mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-FNT260TW-1.jpg?v=1624309900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yaesu Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2500mAh (2.5Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Yaesu FT-25R FT-65R FTA-250L Replacement Batteries.</li>
+<li>Mfgr Part # FNB-26L</li>
+<li>Dimensions: 3.49 in. L x 2.02 in. W x 0.92 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yaesu.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yaesu</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-FNT260TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779478048945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>CS-FNT260TW</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779477983409</id>
+    <published>2021-06-17T21:32:01-04:00</published>
+    <updated>2021-06-17T21:32:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yaesu-ft-25r-ft-65r-fta-250l-1950mah-replacement-battery"/>
+    <title>Yaesu FT-25R FT-65R FTA-250L 1950mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-FNT250TW-1.jpg?v=1624309901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            46.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yaesu Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1950mAh (1.95Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Yaesu FT-25R FT-65R FTA-250L Replacement Batteries.</li>
+<li>Mfgr Part # SBR-25L</li>
+<li>Dimensions: 3.49 in. L x 2.02 in. W x 0.62 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yaesu.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yaesu</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-FNT250TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779477983409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.59</s:price>
+      <s:sku>CS-FNT250TW</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472117937</id>
+    <published>2021-06-17T21:30:43-04:00</published>
+    <updated>2021-06-17T21:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vig-vr8810-3400mah-replacement-battery"/>
+    <title>VIG VR8810 3400mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EXP810TW-1.jpg?v=1624313618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            61.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a VIG Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 3400mAh (3.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>VIG VR8810 Replacement Batteries.</li>
+<li>Dimensions: 3.75 in. L x 2.38 in. W x 0.98 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by VIG.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_VIG</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EXP810TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472117937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.39</s:price>
+      <s:sku>CS-EXP810TW.3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472085169</id>
+    <published>2021-06-17T21:30:43-04:00</published>
+    <updated>2021-06-17T21:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vig-vr8810-2400mah-replacement-battery"/>
+    <title>VIG VR8810 2400mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EXP800TW-1.jpg?v=1624313631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a VIG Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2400mAh (2.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>VIG VR8810 Replacement Batteries.</li>
+<li>Dimensions: 5.14 in. L x 1.04 in. W x 0.89 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by VIG.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_VIG</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EXP800TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472085169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>CS-EXP800TW.3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779471921329</id>
+    <published>2021-06-17T21:30:41-04:00</published>
+    <updated>2021-06-17T21:30:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vertex-d281-vx-d281-replacement-battery"/>
+    <title>Vertex D281 VX-D281 Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            65.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vertex Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vertex D281 VX-D281 Replacement Batteries.</li>
+<li>Mfgr Part # FNB-Z182 FNB-Z182ZI</li>
+<li>Dimensions: 4.94 in. L x 2.49 in. W x 1.51 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vertex.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vertex</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTD288TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779471921329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.39</s:price>
+      <s:sku>CS-MTD288TW.2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779471888561</id>
+    <published>2021-06-17T21:30:41-04:00</published>
+    <updated>2021-06-17T21:30:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vertex-vx-820-vx-821-vx-824-vx-829-vx-870-3400mah-replacement-battery"/>
+    <title>Vertex VX-820 VX-821 VX-824 VX-829 VX-870  3400mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VRX920TW-1.jpg?v=1624316572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            61.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vertex Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 3400mAh (3.4Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vertex VX-820 VX-821 VX-824 VX-829 VX-870 VX-920 VX-921 VX-924 VX-929 VX-970 VX-P820 VX-P920 Replacement Batteries.</li>
+<li>Mfgr Part # AAJ62X001 FNB-V128Li</li>
+<li>Dimensions: 3.53 in. L x 2.16 in. W x 1.09 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vertex.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vertex</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VRX920TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779471888561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.59</s:price>
+      <s:sku>CS-VRX920TW</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779471790257</id>
+    <published>2021-06-17T21:30:38-04:00</published>
+    <updated>2021-06-17T21:30:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vertex-vx-820-vx-821-vx-824-vx-829-vx-870-2200mah-replacement-battery"/>
+    <title>Vertex VX-820 VX-821 VX-824 VX-829 VX-870  2200mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VRX820TW-1.jpg?v=1624316592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            46.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Vertex Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2200mAh (2.2Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Vertex VX-820 VX-821 VX-824 VX-829 VX-870 VX-920 VX-921 VX-924 VX-929 VX-970 VX-P820 VX-P920 Replacement Batteries.</li>
+<li>Mfgr Part # AAJ62X001 FNB-V128Li</li>
+<li>Dimensions: 3.53 in. L x 2.16 in. W x 1.08 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Vertex.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Vertex</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VRX820TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779471790257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.59</s:price>
+      <s:sku>CS-VRX820TW</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779470315697</id>
+    <published>2021-06-17T21:30:19-04:00</published>
+    <updated>2021-06-17T21:30:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/uniden-atlantis-270-replacement-battery"/>
+    <title>Uniden Atlantis 270 Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-UPA270TW-1.jpg?v=1624322237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Uniden Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1100mAh (1.1Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Blue</li>
+<li>Uniden Atlantis 270 Replacement Batteries.</li>
+<li>Mfgr Part # BBTG092001 BT-1035</li>
+<li>Dimensions: 2.07 in. L x 1.5 in. W x 0.41 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Uniden.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Uniden</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-UPA270TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779470315697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-UPA270TW</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779462746289</id>
+    <published>2021-06-17T21:28:36-04:00</published>
+    <updated>2021-06-17T21:28:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/standard-horizon-hx400is-replacement-battery"/>
+    <title>Standard Horizon HX400IS Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SHX400TW-1.jpg?v=1624329651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            136.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Standard Horizon Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2550mAh (2.55Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Standard Horizon HX400IS Replacement Batteries.</li>
+<li>Mfgr Part # FNB-115LIIS SBR-29LIIS</li>
+<li>Dimensions: 5.19 in. L x 2.25 in. W x 1.29 H in.</li>
+<li>Weight: 0.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Standard Horizon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Standard Horizon</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SHX400TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779462746289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">136.79</s:price>
+      <s:sku>CS-SHX400TW</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779451801777</id>
+    <published>2021-06-17T21:25:53-04:00</published>
+    <updated>2021-06-17T21:25:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/relm-rpu7500-rpv7500-2100mah-replacement-battery"/>
+    <title>Relm RPU7500 RPV7500 2100mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HTC780TW-1.jpg?v=1624342426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            52.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Relm Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2100mAh (2.1Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Relm RPU7500 RPV7500 Replacement Batteries.</li>
+<li>Mfgr Part # BL1703</li>
+<li>Dimensions: 4.28 in. L x 2.21 in. W x 1.54 H in.</li>
+<li>Weight: 0.7 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Relm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Relm</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HTC780TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779451801777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.89</s:price>
+      <s:sku>CS-HTC780TW.3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779409432753</id>
+    <published>2021-06-17T21:15:48-04:00</published>
+    <updated>2021-06-17T21:15:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-vz-20-vz-28-vz-d263-vz-d281-vz-d288-replacement-battery"/>
+    <title>Motorola VZ-20 VZ-28 VZ-D263 VZ-D281 VZ-D288 Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            65.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola VZ-20 VZ-28 VZ-D263 VZ-D281 VZ-D288 Replacement Batteries.</li>
+<li>Mfgr Part # CZ088B001</li>
+<li>Dimensions: 3.69 in. L x 2.28 in. W x 1.21 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTD288TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779409432753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.39</s:price>
+      <s:sku>CS-MTD288TW.1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779409399985</id>
+    <published>2021-06-17T21:15:46-04:00</published>
+    <updated>2021-06-17T21:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-ntn8293-ntn82-black-two-way-radio-4300mah-replacement-battery"/>
+    <title>Motorola NTN8293 NTN82 Black Two Way Radio 4300mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MTX352TW-1.jpg?v=1624361337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            86.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 4300mAh (4.3Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola NTN8293 NTN8294 Tetra MTP200 Tetra MTP300 XTS3000 XTS3500 XTS4250 XTS5000 Replacement Batteries.</li>
+<li>Mfgr Part # BP8299MHUC NNTN4435B NNTN7453A NTN8293 NTN8293AR NTN8294 NTN8294A NTN8294AR NTN8294B NTN8294BR NTN8923 NTN8923AR RNN4007AR</li>
+<li>Dimensions: 6.11 in. L x 2.31 in. W x 1.33 H in.</li>
+<li>Weight: 0.9 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTX352TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779409399985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">86.59</s:price>
+      <s:sku>CS-MTX352TW</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779409334449</id>
+    <published>2021-06-17T21:15:45-04:00</published>
+    <updated>2021-06-17T21:15:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-mtp8500-mtp8500ex-mtp8550-mtp8550ex-replacement-battery"/>
+    <title>Motorola MTP8500 MTP8500Ex MTP8550 MTP8550Ex Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            201.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.6V (7.6 Volts)</li>
+<li>Capacity: 1250mAh (1.25Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola MTP8500 MTP8500Ex MTP8550 MTP8550Ex Replacement Batteries.</li>
+<li>Mfgr Part # NNTN8570 NNTN8570A NNTN8570B</li>
+<li>Dimensions: 2.84 in. L x 2.07 in. W x 0.47 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTP850TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779409334449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">201.69</s:price>
+      <s:sku>CS-MTP850TW</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779409301681</id>
+    <published>2021-06-17T21:15:44-04:00</published>
+    <updated>2021-06-17T21:15:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-mtp810ex-mtp850ex-replacement-battery"/>
+    <title>Motorola MTP810Ex MTP850Ex Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            198.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 720mAh (0.72Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Red</li>
+<li>Motorola MTP810Ex MTP850Ex Replacement Batteries.</li>
+<li>Mfgr Part # NNTN7383 NNTN7383A</li>
+<li>Dimensions: 4.86 in. L x 2.35 in. W x 1.4 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTP810TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779409301681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">198.59</s:price>
+      <s:sku>CS-MTP810TW</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779409236145</id>
+    <published>2021-06-17T21:15:43-04:00</published>
+    <updated>2021-06-17T21:15:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-mt1500-nt1500-pr1500-radius-p25-x-2800mah-replacement-battery"/>
+    <title>Motorola MT1500 NT1500 PR1500 Radius P25 X 2800mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MXT152TW-1.jpg?v=1624361397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            102.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2800mAh (2.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola MT1500 NT1500 PR1500 Radius P25 XTS 1000 XTS 1500 XTS 2000 XTS 2500 Battery XTS1500 XTS2500 Replacement Batteries.</li>
+<li>Mfgr Part # HNN9815 NNTN6263 NNTN7032 NNTN7032A NNTN7032B NNTN7335 NNTN7335A NNTN7335B NNTN7554 NNTN9857 NNTN9858 NTA9858A NTN9814 NTN9814MHX NTN9815 NTN9815_R NTN9815A NTN9815AR NTN9815B NTN9816 NTN9816AR NTN9816B NTN9851AR NTN9851B NTN9857AR NTN9857B NTN9857C NTN9858 NTN9858_R NTN9858A NTN9858AR NTN9858B NTN9858C NTN9859 NTN9861</li>
+<li>Dimensions: 4.86 in. L x 2.35 in. W x 1.4 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MXT152TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779409236145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">102.19</s:price>
+      <s:sku>CS-MXT152TW</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779408089265</id>
+    <published>2021-06-17T21:15:29-04:00</published>
+    <updated>2021-06-17T21:15:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-magone-v418d-magone-v468-magone-z148-smp4-replacement-battery"/>
+    <title>Motorola MagOne V418D MagOne V468 MagOne Z148 SMP4 Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MTZ418TW-1.jpg?v=1624361771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            61.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1600mAh (1.6Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola MagOne V418D MagOne V468 MagOne Z148 SMP418 Replacement Batteries.</li>
+<li>Mfgr Part # FNB-Z162</li>
+<li>Dimensions: 3.36 in. L x 2.06 in. W x 0.68 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTZ418TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779408089265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.59</s:price>
+      <s:sku>CS-MTZ418TW</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779407925425</id>
+    <published>2021-06-17T21:15:27-04:00</published>
+    <updated>2021-06-17T21:15:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-gp329-ex-gp340-ex-gp380-ex-gp580-ex-gp680-replacement-battery"/>
+    <title>Motorola GP329 EX GP340 Ex GP380 Ex GP580 Ex GP680 Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MTP340TW-1.jpg?v=1624361885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            90.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 1500mAh (1.5Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola GP329 EX GP340 Ex GP380 Ex GP580 Ex GP680 Ex Replacement Batteries.</li>
+<li>Mfgr Part # NNTN5510AR NNTN5510BR NNTN5510CR NNTN5510DR</li>
+<li>Dimensions: 4.86 in. L x 2.31 in. W x 1.41 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTP340TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779407925425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.09</s:price>
+      <s:sku>CS-MTP340TW</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779407827121</id>
+    <published>2021-06-17T21:15:27-04:00</published>
+    <updated>2021-06-17T21:15:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-l10i-l10ig-l10ig-lte-lex-l10-replacement-battery"/>
+    <title>Motorola L10i L10ig L10ig LTE LEX L10 Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MOX100TW-1.jpg?v=1624361808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            96.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 4500mAh (4.5Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola L10i L10ig L10ig LTE LEX L10 Replacement Batteries.</li>
+<li>Mfgr Part # PA33GAB013A PMNN4475 PMNN4475B</li>
+<li>Dimensions: 2.84 in. L x 2.07 in. W x 0.47 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MOX100TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779407827121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">96.99</s:price>
+      <s:sku>CS-MOX100TW.2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779407532209</id>
+    <published>2021-06-17T21:15:24-04:00</published>
+    <updated>2021-06-17T21:15:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-em1000-em1000r-em1020r-fv300-fv50-1500mah-replacement-battery"/>
+    <title>Motorola EM1000 EM1000R EM1020R FV300 FV50 1500mAh Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MTV510TW-1.jpg?v=1624362031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 1500mAh (1.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Black</li>
+<li>Motorola EM1000 EM1000R EM1020R FV300 FV500 FV600 FV700 FV800 KEM-ML36100 MC220 MC220R MC225 MC225R MD200 MD200R MD200TPR MD320CR MJ270 MJ270R MJ27OR MJ430R MR350 MR350R MR350R VP MR350RPP MR350RVP MR355 MR355R MR356 MR356R MR560R MS350 Ms350R MS355R MT350R MT352R MT352TPR T260TP T4800 T4900 T5000 T5022 T5025 T5100 T5200 T5300 T5320 T5330 T5400 T5410 T5420 T5500 T5512 T5522 T5525 T5600 T5620 T5700 T5710 T5720 T5800 T5820 T5900 T5920 T5950 T6000 T6200 T6210 T6220 T6250 T6300 T6310 T6320 T6400 T6500 T6500R T6510 T6530 T6550 T7100 T8500 T8500R T8550RCAMO T9500 T9550 T9550XLRCAMO T9580 T9580RSAME T9650 T9650RCAMO T9680 T9680RSAME Talk About FV500 Talk About T5300 Talk About T5320 Talk About T5400 Talk About T5420 Talk About T5512 Talk About T5522 Talk About T5532 Talk About T5600 Talk About T5620 Talk About T5700 Talk About T5710 Talk About T5720 Talk About T5800 Talk About T5820 Talk About T5900 Talk About T5920 Talk About T5950 Talkabout EM1000 TalkAbout EM1000A Talkabout EM1000R TalkAbout FV300 TalkAbout FV500 TalkAbout FV700 TalkAbout FV700R TalkAbout FV800 Talkabout MC220 Talkabout MC220R Talkabout MC225 Talkabout MC225R TalkAbout MD200 TalkAbout MD200R TalkAbout MD200TPR TalkAbout MD207 TalkAbout MD207R Talkabout MJ270 Talkabout MJ270R Talkabout MR350 Talkabout MR350R Talkabout MR350R VP TalkAbout MR350TPR Talkabout MR355 Talkabout MR355R Talkabout MR356 Talkabout MR356R Talkabout MS350 Talkabout MS350R TalkAbout MS355R TalkAbout MT350 TalkAbout MT350R TalkAbout MT352 TalkAbout MT352R TalkAbout MT352TPR TalkAbout MU350R TalkAbout MU354R TalkAbout SX500R TalkAbout SX600 TalkAbout SX800 TalkAbout SX800R TalkAbout SX900 TalkAbout SX900R Talkabout T200 Talkabout T260 Talkabout T265 Talkabout T280 Talkabout T400 Talkabout T460 Talkabout T461 Talkabout T465 Talkabout T480 TalkAbout T4800 TalkAbout T4900 Talkabout T500 TalkAbout T5000 TalkAbout T5022 TalkAbout T5025 TalkAbout T5100 TalkAbout T5200 TalkAbout T5300 TalkAbout T5320 TalkAbout T5330 TalkAbout T5400 TalkAbout T5410 TalkAbout T5420 TalkAbout T5422 TalkAbout T5428 TalkAbout T5500 TalkAbout T5512 TalkAbout T5522 TalkAbout T5525 TalkAbout T5530 TalkAbout T5532 TalkAbout T5550 TalkAbout T5600 TalkAbout T5620 TalkAbout T5622 TalkAbout T5700 TalkAbout T5710 TalkAbout T5720 TalkAbout T5725 TalkAbout T5800 TalkAbout T5820 TalkAbout T5900 TalkAbout T5920 TalkAbout T5950 Talkabout T600 H20 Talkabout T6000 Talkabout T605 H20 Talkabout T6200 Talkabout T6210 Talkabout T6220 Talkabout T6250 Talkabout T6300 Talkabout T631 Talkabout T6310 Talkabout T6320 Talkabout T6400 Talkabout T6500 TalkAbout T6500R TalkAbout T6510 TalkAbout T6530 Talkabout T800 Talkabout T82 Talkabout T82 EXTREME TalkAbout T8500 Talkabout T8500R Talkabout T8550RCAMO Talkabout T92 H2O TalkAbout T9500 Talkabout T9550 Talkabout T9550XLRCAMO Talkabout T9580 Talkabout T9580RSAME Talkabout T9650 Talkabout T9650RCAMO Talkabout T9680 Talkabout T9680RSAME Replacement Batteries.</li>
+<li>Mfgr Part # 1532 4002A 53615 56315 AP-4002 AP-4002H FRS-009 FRS-4002A FV500 HKNN4002 HKNN4002A HKNN4002B HKNW4002A HKTN4003 KEBT-071 KEBT-071-A KEBT071B KEBT-071-B KEBT-071-C KEBT-071D KEBT-071-D KEBT-071-F KEBT-650 NNTN4384 NNTN4385 PMNN4477 PMNN4477A PMNN4477AR PMNN4551A ULFRS4002A ULFRS-4002A</li>
+<li>Dimensions: 1.98 in. L x 1.67 in. W x 0.59 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MTV510TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779407532209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.29</s:price>
+      <s:sku>CS-MTV510TW</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779407499441</id>
+    <published>2021-06-17T21:15:24-04:00</published>
+    <updated>2021-06-17T21:15:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motorola-dp4000ex-dp4401ex-atex-dp4801ex-atex-replacement-battery"/>
+    <title>Motorola DP4000ex DP4401ex ATEX DP4801ex ATEX Replacement Battery</title>
+    <s:type>Two Way Radio</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Two Way Radio<br>
+        <strong>Price: </strong>
+            198.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Motorola Two Way Radio Battery</li>
+<li>Volts: 7.6V (7.6 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Li-ion</li>
+<li>Color: Black</li>
+<li>Motorola DP4000ex DP4401ex ATEX DP4801ex ATEX Replacement Batteries.</li>
+<li>Mfgr Part # NNTN8359 NNTN8359A</li>
+<li>Dimensions: 4.69 in. L x 2.17 in. W x 1.56 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Motorola.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MDP480TW</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779407499441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">198.59</s:price>
+      <s:sku>CS-MDP480TW</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

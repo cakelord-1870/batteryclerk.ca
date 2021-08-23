@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/alarm-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-06-18T19:33:58-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780542517425</id>
+    <published>2021-06-18T19:33:58-04:00</published>
+    <updated>2021-06-18T19:33:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/adt-wireless-color-touchscreen-key-replacement-battery"/>
+    <title>ADT Wireless Color Touchscreen Key Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-DSC504BT-1_6396c49b-a9dd-4045-b970-b4b8e1e83b0f.jpg?v=1624822217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a ADT Alarm Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>ADT Wireless Color Touchscreen Key Replacement Batteries.</li>
+<li>Dimensions: 2.25 in. L x 2.08 in. W x 0.6 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by ADT.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_ADT</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-DSC504BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780542517425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>CS-DSC504BT.1</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779478278321</id>
+    <published>2021-06-17T21:32:05-04:00</published>
+    <updated>2021-06-17T21:32:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yale-hsa3095-home-monitoring-alarm-replacement-battery"/>
+    <title>Yale HSA3095 Home Monitoring Alarm Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HSA309BT-1.jpg?v=1624309704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            39.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yale Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 1500mAh (1.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Yale HSA3095 Home Monitoring Alarm Replacement Batteries.</li>
+<li>Mfgr Part # GP60AAS6YMX</li>
+<li>Dimensions: 1.98 in. L x 1.69 in. W x 1.13 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yale</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HSA309BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779478278321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.29</s:price>
+      <s:sku>CS-HSA309BT</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779478180017</id>
+    <published>2021-06-17T21:32:04-04:00</published>
+    <updated>2021-06-17T21:32:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yale-alarm-control-panels-hsa6300-family-alarm-con-replacement-battery"/>
+    <title>Yale Alarm control panels HSA6300 Family Alarm Con Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HSA641BT-1.jpg?v=1624309703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yale Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Yale Alarm control panels HSA6300 Family Alarm Control P Replacement Batteries.</li>
+<li>Mfgr Part # GP60AAAH6BMJ GP60AAS4BMX HSA3800 HSA6300 HSA6400</li>
+<li>Dimensions: 2.45 in. L x 1.76 in. W x 0.42 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yale</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HSA641BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779478180017</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>CS-HSA641BT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779478147249</id>
+    <published>2021-06-17T21:32:04-04:00</published>
+    <updated>2021-06-17T21:32:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yale-easy-ai-easy-ef-easy-fit-hsa6400-premium-alar-replacement-battery"/>
+    <title>Yale Easy AI Easy EF Easy Fit HSA6400 Premium Alar Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HSA640BT-1.jpg?v=1624309699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Yale Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 800mAh (0.8Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Yale Easy AI Easy EF Easy Fit HSA6400 Premium Alarm Control HSA6410 Panels Replacement Batteries.</li>
+<li>Mfgr Part # 60AAAH6BMJ 802306063H</li>
+<li>Dimensions: 2.44 in. L x 1.78 in. W x 0.41 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Yale.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Yale</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HSA640BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779478147249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-HSA640BT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472511153</id>
+    <published>2021-06-17T21:30:48-04:00</published>
+    <updated>2021-06-17T21:30:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/visonic-powermaster-30-control-panel-powermax-comp-replacement-battery"/>
+    <title>Visonic PowerMaster 30 Control Panel PowerMax Comp Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VPX300BT-1.jpg?v=1624313397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Visonic Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 1500mAh (1.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Visonic PowerMaster 30 Control Panel PowerMax Complete control pane Replacement Batteries.</li>
+<li>Mfgr Part # 103-301179 103-303689 BAT301179 LTT-AA1300LSDX6B</li>
+<li>Dimensions: 3.33 in. L x 2.02 in. W x 0.57 H in.</li>
+<li>Weight: 0.5 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Visonic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Visonic</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VPX300BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472511153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>CS-VPX300BT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472478385</id>
+    <published>2021-06-17T21:30:48-04:00</published>
+    <updated>2021-06-17T21:30:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/visonic-powermax-bell-box-powermax-mcs-700-replacement-battery"/>
+    <title>Visonic Powermax Bell Box PowerMax MCS-700 Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VPX700BT-1.jpg?v=1624313429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Visonic Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 230mAh (0.23Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Visonic Powermax Bell Box PowerMax MCS-700 Replacement Batteries.</li>
+<li>Mfgr Part # 0-9912-J GP250BVH6AMX</li>
+<li>Dimensions: 1.57 in. L x 1.06 in. W x 1.01 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Visonic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Visonic</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VPX700BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472478385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>CS-VPX700BT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472412849</id>
+    <published>2021-06-17T21:30:47-04:00</published>
+    <updated>2021-06-17T21:30:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/visonic-next-cam-next-cam-k9-pg2-wide-angle-next-c-replacement-battery"/>
+    <title>Visonic Next CAM Next CAM K9 PG2 wide angle Next C Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VPK900BT-1.jpg?v=1624313423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Visonic Alarm Battery</li>
+<li>Volts: 6V (6 Volts)</li>
+<li>Capacity: 1350mAh (1.35Ah)</li>
+<li>Type: Li-MnO2</li>
+<li>Color: Yellow</li>
+<li>Visonic Next CAM Next CAM K9 PG2 wide angle Next CAM PG2 Next CAM PGS Replacement Batteries.</li>
+<li>Mfgr Part # 103-302891 103-302915 EVE2CR17450-C GP2CR123A OSA363</li>
+<li>Dimensions: 1.4 in. L x 1.34 in. W x 0.7 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Visonic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Visonic</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VPK900BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472412849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-VPK900BT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779472314545</id>
+    <published>2021-06-17T21:30:46-04:00</published>
+    <updated>2021-06-17T21:30:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/visonic-mc-s710-mc-s720-mcs-730-replacement-battery"/>
+    <title>Visonic MC-S710 MC-S720 MCS-730 Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-VPX710BT-1.jpg?v=1624313438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            50.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Visonic Alarm Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 14500mAh (14.5Ah)</li>
+<li>Type: Li-SOCl2</li>
+<li>Color: Black</li>
+<li>Visonic MC-S710 MC-S720 MCS-730 Replacement Batteries.</li>
+<li>Mfgr Part # 0-9912-K ER34615M W200</li>
+<li>Dimensions: 2.38 in. L x 1.35 in. W x 1.3 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Visonic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Visonic</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-VPX710BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779472314545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.79</s:price>
+      <s:sku>CS-VPX710BT</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779470545073</id>
+    <published>2021-06-17T21:30:21-04:00</published>
+    <updated>2021-06-17T21:30:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/uniden-guardian-g955-guardian-udr-udr744-udr744hd-replacement-battery"/>
+    <title>Uniden Guardian G955 Guardian UDR UDR744 UDR744HD  Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-UND955SL-1.jpg?v=1624322137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Uniden Alarm Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Uniden Guardian G955 Guardian UDR UDR744 UDR744HD UDR777HD UDR780HD Replacement Batteries.</li>
+<li>Mfgr Part # 634169</li>
+<li>Dimensions: 2.42 in. L x 1.97 in. W x 0.2 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Uniden.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Uniden</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-UND955SL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779470545073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-UND955SL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779464712369</id>
+    <published>2021-06-17T21:29:10-04:00</published>
+    <updated>2021-06-17T21:29:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/technicolor-tca300com-replacement-battery"/>
+    <title>Technicolor TCA300COM Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-TCA300BT-1.jpg?v=1624327560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Technicolor Alarm Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 2250mAh (2.25Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Gray</li>
+<li>Technicolor TCA300COM Replacement Batteries.</li>
+<li>Mfgr Part # U46P313.00</li>
+<li>Dimensions: 3.4 in. L x 2.3 in. W x 0.36 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Technicolor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Technicolor</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TCA300BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779464712369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>CS-TCA300BT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779464614065</id>
+    <published>2021-06-17T21:29:09-04:00</published>
+    <updated>2021-06-17T21:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/technicolor-tca203-tca203comg-replacement-battery"/>
+    <title>Technicolor TCA203 TCA203COMG Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            41.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Technicolor Alarm Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 4500mAh (4.5Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Technicolor TCA203 TCA203COMG Replacement Batteries.</li>
+<li>Mfgr Part # BP-TCA-12 2510 SN</li>
+<li>Dimensions: 2.92 in. L x 2.17 in. W x 0.37 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Technicolor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Technicolor</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-TCA203BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779464614065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.59</s:price>
+      <s:sku>CS-TCA203BT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779419426993</id>
+    <published>2021-06-17T21:18:21-04:00</published>
+    <updated>2021-06-17T21:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/qolsys-iq-panel-replacement-battery"/>
+    <title>Qolsys IQ Panel Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-LQS100SL-1.jpg?v=1624348915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            42.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Qolsys Alarm Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 2600mAh (2.6Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Qolsys IQ Panel Replacement Batteries.</li>
+<li>Mfgr Part # 4T054-01 IM198 QR0018-840</li>
+<li>Dimensions: 3.2 in. L x 1.57 in. W x 0.55 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Qolsys.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Qolsys</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-LQS100SL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779419426993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.29</s:price>
+      <s:sku>CS-LQS100SL</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779419263153</id>
+    <published>2021-06-17T21:18:20-04:00</published>
+    <updated>2021-06-17T21:18:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/pyronix-enforcer-deltabell-siren-alarm-replacement-battery"/>
+    <title>Pyronix Enforcer Deltabell Siren Alarm Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-DER615BT-1.jpg?v=1624349003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            50.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Pyronix Alarm Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 14500mAh (14.5Ah)</li>
+<li>Type: Li-SOCl2</li>
+<li>Color: Black</li>
+<li>Pyronix Enforcer Deltabell Siren Alarm Replacement Batteries.</li>
+<li>Mfgr Part # CR34615M</li>
+<li>Dimensions: 2.39 in. L x 1.35 in. W x 1.31 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Pyronix.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Pyronix</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-DER615BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779419263153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.79</s:price>
+      <s:sku>CS-DER615BT</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779416281265</id>
+    <published>2021-06-17T21:17:35-04:00</published>
+    <updated>2021-06-17T21:17:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/paradox-magellan-6250-console-magellan-mg6250-mg62-replacement-battery"/>
+    <title>Paradox Magellan 6250 Console Magellan MG6250 MG62 Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-PMG625BT-1.jpg?v=1624352472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Paradox Alarm Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 1500mAh (1.5Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Paradox Magellan 6250 Console Magellan MG6250 MG6250 Control Panel Replacement Batteries.</li>
+<li>Mfgr Part # PDX-BATMG6250</li>
+<li>Dimensions: 2.25 in. L x 1.97 in. W x 0.57 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Paradox.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Paradox</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-PMG625BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779416281265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CS-PMG625BT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779416248497</id>
+    <published>2021-06-17T21:17:35-04:00</published>
+    <updated>2021-06-17T21:17:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/paradox-magellan-mg6060-mg6060-control-panel-mg613-replacement-battery"/>
+    <title>Paradox Magellan MG6060 MG6060 Control Panel MG613 Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-PMG613BT-1.jpg?v=1624352459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Paradox Magellan Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Paradox Magellan MG6060 MG6060 Control Panel MG6130 MG6130 Control Panel MG6160 MG6160 Control Panel Replacement Batteries.</li>
+<li>Mfgr Part # 0780100172 0780100178</li>
+<li>Dimensions: 6.06 in. L x 1.16 in. W x 0.59 H in.</li>
+<li>Weight: 0.5 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Paradox Magellan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Paradox Magellan</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-PMG613BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779416248497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>CS-PMG613BT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779402551473</id>
+    <published>2021-06-17T21:14:07-04:00</published>
+    <updated>2021-06-17T21:14:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/marmitek-proguard-os826-siren-proguard800-siren-wi-replacement-battery"/>
+    <title>Marmitek ProGuard OS826 siren ProGuard800 Siren wi Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MOS826BT-1.jpg?v=1624367221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Marmitek Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Marmitek ProGuard OS826 siren ProGuard800 Siren wireless ProGuard alarm panel Replacement Batteries.</li>
+<li>Mfgr Part # GP1000AAAH6YMX GP11AAAH6YMX GP150AAAM6YMX GP91AAALH6YMX INF-BATWES OS826</li>
+<li>Dimensions: 1.75 in. L x 1.22 in. W x 0.82 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Marmitek.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Marmitek</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MOS826BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779402551473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-MOS826BT.2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779395211441</id>
+    <published>2021-06-17T21:11:56-04:00</published>
+    <updated>2021-06-17T21:11:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ksenia-duo-wireless-repeater-radius-indoor-siren-replacement-battery"/>
+    <title>Ksenia Duo wireless repeater Radius Indoor Siren Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-KSR720BT-1.jpg?v=1624392025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Ksenia Alarm Battery</li>
+<li>Volts: 3.7V (3.7 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Ksenia Duo wireless repeater Radius Indoor Siren Replacement Batteries.</li>
+<li>Mfgr Part # KSI7207008.000</li>
+<li>Dimensions: 1.88 in. L x 1.87 in. W x 0.4 H in.</li>
+<li>Weight: 0.1 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Ksenia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Ksenia</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-KSR720BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779395211441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>CS-KSR720BT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779393114289</id>
+    <published>2021-06-17T21:11:20-04:00</published>
+    <updated>2021-06-17T21:11:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/jablotron-os-360a-os-365a-replacement-battery"/>
+    <title>Jablotron OS-360A OS-365A Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-JTS360BT-1.jpg?v=1624911797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            46.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Jablotron Alarm Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 3000mAh (3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Jablotron OS-360A OS-365A Replacement Batteries.</li>
+<li>Mfgr Part # BAT-4V8 N1800SC4BC</li>
+<li>Dimensions: 3.5 in. L x 1.73 in. W x 0.89 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Jablotron.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Jablotron</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-JTS360BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779393114289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.59</s:price>
+      <s:sku>CS-JTS360BT</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779393048753</id>
+    <published>2021-06-17T21:11:20-04:00</published>
+    <updated>2021-06-17T21:11:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/jablotron-ja-80a-replacement-battery"/>
+    <title>Jablotron JA-80A Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-JTS800BT-1.jpg?v=1624409583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            61.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Jablotron Alarm Battery</li>
+<li>Volts: 6V (6 Volts)</li>
+<li>Capacity: 12000mAh (12Ah)</li>
+<li>Type: Li-MnO2</li>
+<li>Color: Yellow</li>
+<li>Jablotron JA-80A Replacement Batteries.</li>
+<li>Mfgr Part # 2CR34615 BAT-80A</li>
+<li>Dimensions: 4.75 in. L x 1.4 in. W x 1.3 H in.</li>
+<li>Weight: 0.9 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Jablotron.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Jablotron</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-JTS800BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779393048753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.59</s:price>
+      <s:sku>CS-JTS800BT</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779391770801</id>
+    <published>2021-06-17T21:11:00-04:00</published>
+    <updated>2021-06-17T21:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/infinite-prime-wes-siren-replacement-battery"/>
+    <title>Infinite Prime WES Siren Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-MOS826BT-1_aa0dedfb-dc90-4fc5-a951-377993e164ef.jpg?v=1624421739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Infinite Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Infinite Prime WES Siren Replacement Batteries.</li>
+<li>Mfgr Part # GP1000AAAH6YMX GP11AAAH6YMX GP150AAAM6YMX GP91AAALH6YMX INF-BATWES OS826</li>
+<li>Dimensions: 1.75 in. L x 1.22 in. W x 0.82 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Infinite.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Infinite</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-MOS826BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779391770801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-MOS826BT.1</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779385970865</id>
+    <published>2021-06-17T21:09:29-04:00</published>
+    <updated>2021-06-17T21:09:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/honeywell-lynx-lynx-5100-lynx-5200-lynx-5210-lynx-replacement-battery"/>
+    <title>Honeywell Lynx lynx 5100 lynx 5200 lynx 5210 lynx  Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HYL100BT-1.jpg?v=1624483627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            48.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Honeywell Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 3700mAh (3.7Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Honeywell Lynx lynx 5100 lynx 5200 lynx 5210 lynx Touch 5210 lynx touch 7000 Lyric Controller Lyric Keypad LCP500-L Replacement Batteries.</li>
+<li>Mfgr Part # 300-03866 LCP500-4B LYNXRCHKIT-SHA OSA214</li>
+<li>Dimensions: 3.97 in. L x 2.68 in. W x 0.68 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Honeywell.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Honeywell</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HYL100BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779385970865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.69</s:price>
+      <s:sku>CS-HYL100BT</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779385774257</id>
+    <published>2021-06-17T21:09:26-04:00</published>
+    <updated>2021-06-17T21:09:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/honeywell-8ep420-ade-reson8-ag6-wb-hwag6s-reson8-r-replacement-battery"/>
+    <title>Honeywell 8EP420 ADE RESON8 AG6 WB HWAG6S RESON8 R Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HYP420BT-1.jpg?v=1624484689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Honeywell Alarm Battery</li>
+<li>Volts: 6V (6 Volts)</li>
+<li>Capacity: 230mAh (0.23Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Honeywell 8EP420 ADE RESON8 AG6 WB HWAG6S RESON8 Risco Eurosec XS3D Replacement Batteries.</li>
+<li>Mfgr Part # CP300H GP250BVH5A6 GP320BVH5A6</li>
+<li>Dimensions: 1.32 in. L x 1.06 in. W x 1.01 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Honeywell.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Honeywell</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HYP420BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779385774257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>CS-HYP420BT</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779385675953</id>
+    <published>2021-06-17T21:09:25-04:00</published>
+    <updated>2021-06-17T21:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/honda-car-immobiliser-replacement-battery"/>
+    <title>Honda Car Immobiliser Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-HCA250BT-1.jpg?v=1624485398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Honda Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 230mAh (0.23Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Honda Car Immobiliser Replacement Batteries.</li>
+<li>Mfgr Part # 37110-SMG-E012-M1</li>
+<li>Dimensions: 2.98 in. L x 1.04 in. W x 0.54 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Honda.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Honda</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-HCA250BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779385675953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>CS-HCA250BT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779376828593</id>
+    <published>2021-06-17T21:07:16-04:00</published>
+    <updated>2021-06-17T21:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/electia-1131-dtmf-1132-gsm-c-fence-gsm-panel-home-replacement-battery"/>
+    <title>Electia 1131 DTMF 1132 GSM C-Fence GSM panel Home  Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EPR113BT-1.jpg?v=1624582894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Electia Alarm Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Electia 1131 DTMF 1132 GSM C-Fence GSM panel Home Prosafe alarm panel Replacement Batteries.</li>
+<li>Mfgr Part # 170AAH6MXZ 60AAAH6BMJ 73AAAH6BMJ 802306063Y3 802307363Y1</li>
+<li>Dimensions: 1.75 in. L x 1.23 in. W x 0.82 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Electia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Electia</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EPR113BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779376828593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>CS-EPR113BT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779375255729</id>
+    <published>2021-06-17T21:06:50-04:00</published>
+    <updated>2021-06-17T21:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/dsc-pgx901-pgx911-powerg-pg9911-powerg-pg9911-sire-replacement-battery"/>
+    <title>DSC PGX901 PGX911 PowerG PG9911 PowerG PG9911 Sire Replacement Battery</title>
+    <s:type>Alarm</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-DSC911BT-1.jpg?v=1624591684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Alarm<br>
+        <strong>Price: </strong>
+            34.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a DSC Alarm Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 14500mAh (14.5Ah)</li>
+<li>Type: Li-MnO2</li>
+<li>Color: Black</li>
+<li>DSC PGX901 PGX911 PowerG PG9911 PowerG PG9911 Siren Replacement Batteries.</li>
+<li>Mfgr Part # BATT13036V</li>
+<li>Dimensions: 2.37 in. L x 1.38 in. W x 1.32 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by DSC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_DSC</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-DSC911BT</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779375255729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.69</s:price>
+      <s:sku>CS-DSC911BT</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

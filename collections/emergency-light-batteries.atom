@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/emergency-light-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-07-24T14:46:57-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838220488881</id>
+    <published>2021-07-24T14:46:57-04:00</published>
+    <updated>2021-07-24T14:46:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/johnlite-12-volt-7-5-ah-battery-12v-7ah-emergency-light-battery"/>
+    <title>JohnLite 12V 7Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838220488881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-D7.5S-N-0-131156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838218948785</id>
+    <published>2021-07-24T14:43:40-04:00</published>
+    <updated>2021-07-24T14:43:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/emergi-lite-12v5-12v-5ah-emergency-light-battery"/>
+    <title>Emergi-Lite 12V 5Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838218948785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-D5S-N-0-135186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838205448369</id>
+    <published>2021-07-24T13:58:56-04:00</published>
+    <updated>2021-07-24T13:58:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/simplex-12v22-12v-22ah-emergency-light-replacement-battery"/>
+    <title>Simplex 12V 22Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838205448369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-D22S-B-0-104936</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838195355825</id>
+    <published>2021-07-24T13:25:35-04:00</published>
+    <updated>2021-07-24T13:25:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/exide-6v6-6v-7ah-emergency-light-battery"/>
+    <title>Exide 6V 7Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838195355825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-C7S-B-0-103278</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780545138865</id>
+    <published>2021-06-18T19:35:11-04:00</published>
+    <updated>2021-06-18T19:35:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/navlite-026-148-nnyxsb-sure-lites-lpx70rwh-replacement-battery"/>
+    <title>Navlite 026-148 NNYXSB Sure-Lites LPX70RWH Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC148LS-1_d5375c87-bb03-47dc-9364-ec648c330c7f.jpg?v=1624360109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Navlite Emergency Light Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Navlite 026-148 NNYXSB Sure-Lites LPX70RWH Replacement Batteries.</li>
+<li>Dimensions: 2.06 in. L x 1.71 in. W x 0.58 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Navlite.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Navlite</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC148LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780545138865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CS-EMC148LS.4</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543238321</id>
+    <published>2021-06-18T19:34:24-04:00</published>
+    <updated>2021-06-18T19:34:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/custom-battery-pack-2icp-16-25-46-2s1p-replacement-battery"/>
+    <title>Custom Battery Pack 2ICP 16 25 46 2S1P Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CM015SL-1_75578b55-3299-4124-9f3b-5ac08d53469d.jpg?v=1624634546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Custom Battery Pack Emergency Light Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Custom Battery Pack  Replacement Batteries.</li>
+<li>Mfgr Part # 2ICP 16 25 46 2S1P</li>
+<li>Dimensions: 1.8 in. L x 0.92 in. W x 0.58 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Custom Battery Pack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Custom Battery Pack</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CM015SL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543238321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>CS-CM015SL.1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6780543107249</id>
+    <published>2021-06-18T19:34:20-04:00</published>
+    <updated>2021-06-18T19:34:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/corun-b310011-replacement-battery"/>
+    <title>Corun B310011 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC310LS-1_04cebe21-52d4-4ed9-b6c8-b01c411155ed.jpg?v=1624642999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Corun Emergency Light Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Corun B310011 Replacement Batteries.</li>
+<li>Dimensions: 7.87 in. L x 0.65 in. W x 0.57 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Corun.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Corun</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC310LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6780543107249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>CS-EMC310LS.1</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779463958705</id>
+    <published>2021-06-17T21:28:56-04:00</published>
+    <updated>2021-06-17T21:28:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/suunaviidaga-evakuatsioonivalgust-replacement-battery"/>
+    <title>Suunaviidaga EVAKUATSIOONIVALGUST Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC408LS-1.jpg?v=1624329244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Suunaviidaga Emergency Light Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Suunaviidaga EVAKUATSIOONIVALGUST Replacement Batteries.</li>
+<li>Dimensions: 1.8 in. L x 0.92 in. W x 0.58 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Suunaviidaga.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Suunaviidaga</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC408LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779463958705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CS-EMC408LS.2</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779457667249</id>
+    <published>2021-06-17T21:27:10-04:00</published>
+    <updated>2021-06-17T21:27:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/schneider-luxa-ova-luxa-ova-rilux-ova37027-ova5101-replacement-battery"/>
+    <title>Schneider LUXA OVA LUXA OVA RILUX OVA37027 OVA5101 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SVA027LS-1.jpg?v=1624336173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Schneider Emergency Light Battery</li>
+<li>Volts: 2.4V (2.4 Volts)</li>
+<li>Capacity: 1600mAh (1.6Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Schneider LUXA OVA LUXA OVA RILUX OVA37027 OVA51012E RILUX RILUX 6 Replacement Batteries.</li>
+<li>Mfgr Part # TD310232</li>
+<li>Dimensions: 3.4 in. L x 0.97 in. W x 0.89 H in.</li>
+<li>Weight: 0.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Schneider.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Schneider</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SVA027LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779457667249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-SVA027LS</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779457536177</id>
+    <published>2021-06-17T21:27:08-04:00</published>
+    <updated>2021-06-17T21:27:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/schneider-exiway-easyled-ova38352-ova38355-ova3836-replacement-battery"/>
+    <title>Schneider Exiway EasyLED OVA38352 OVA38355 OVA3836 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SVA106LS-1.jpg?v=1624336180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Schneider Emergency Light Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 800mAh (0.8Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Schneider Exiway EasyLED OVA38352 OVA38355 OVA38360 OVA38362 OVA51106 OVA51107 Replacement Batteries.</li>
+<li>Mfgr Part # 329067840 4BD-AA800BT 513141006</li>
+<li>Dimensions: 2.21 in. L x 2 in. W x 0.56 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Schneider.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Schneider</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SVA106LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779457536177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-SVA106LS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779457503409</id>
+    <published>2021-06-17T21:27:08-04:00</published>
+    <updated>2021-06-17T21:27:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/schneider-everlux-ferro-evx-ferro-ova-bargellini-o-replacement-battery"/>
+    <title>Schneider Everlux Ferro EVX Ferro OVA Bargellini O Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SVA028LS-1.jpg?v=1624336191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Schneider Emergency Light Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 4000mAh (4Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: White</li>
+<li>Schneider Everlux Ferro EVX Ferro OVA Bargellini OVA51028E Replacement Batteries.</li>
+<li>Mfgr Part # TD110332</li>
+<li>Dimensions: 7.09 in. L x 1.39 in. W x 1.29 H in.</li>
+<li>Weight: 1.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Schneider.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Schneider</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SVA028LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779457503409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>CS-SVA028LS</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779457470641</id>
+    <published>2021-06-17T21:27:08-04:00</published>
+    <updated>2021-06-17T21:27:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/schneider-exiway-class-exiway-one-exiway-plus-replacement-battery"/>
+    <title>Schneider Exiway Class Exiway One Exiway Plus Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SVA994LS-1.jpg?v=1624336178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            41.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Schneider Emergency Light Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 4000mAh (4Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: White</li>
+<li>Schneider Exiway Class Exiway One Exiway Plus Replacement Batteries.</li>
+<li>Mfgr Part # OVA58994</li>
+<li>Dimensions: 9.43 in. L x 1.41 in. W x 1.28 H in.</li>
+<li>Weight: 1.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Schneider.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Schneider</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SVA994LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779457470641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.59</s:price>
+      <s:sku>CS-SVA994LS</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779453046961</id>
+    <published>2021-06-17T21:26:09-04:00</published>
+    <updated>2021-06-17T21:26:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/saft-785509-replacement-battery"/>
+    <title>Saft 785509 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-SAT509LS-1.jpg?v=1624341154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Saft Emergency Light Battery</li>
+<li>Volts: 2.4V (2.4 Volts)</li>
+<li>Capacity: 1600mAh (1.6Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Saft 785509 Replacement Batteries.</li>
+<li>Dimensions: 3.36 in. L x 0.89 in. W x 0.88 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Saft.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Saft</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-SAT509LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779453046961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-SAT509LS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779410907313</id>
+    <published>2021-06-17T21:16:19-04:00</published>
+    <updated>2021-06-17T21:16:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/neptolux-175-8070-eve-b0408-replacement-battery"/>
+    <title>Neptolux 175-8070 EVE B0408 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC408LS-1_b8cc63c6-e467-45c4-a9dd-2c677a3c0b0c.jpg?v=1624359453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Neptolux Emergency Light Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Color: Black</li>
+<li>Neptolux 175-8070 EVE B0408 Replacement Batteries.</li>
+<li>Mfgr Part # 175-8070 2ICP 16 25 46 2S1P</li>
+<li>Dimensions: 1.8 in. L x 0.92 in. W x 0.58 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Neptolux.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Neptolux</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC408LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779410907313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CS-EMC408LS.1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779410809009</id>
+    <published>2021-06-17T21:16:18-04:00</published>
+    <updated>2021-06-17T21:16:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/neptolux-emergency-exit-lights-emergency-light-eve-replacement-battery"/>
+    <title>Neptolux Emergency Exit Lights Emergency Light EVE Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-CM015SL-1.jpg?v=1624359446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Neptolux Emergency Light Battery</li>
+<li>Volts: 7.4V (7.4 Volts)</li>
+<li>Capacity: 700mAh (0.7Ah)</li>
+<li>Type: Li-Polymer</li>
+<li>Neptolux Emergency Exit Lights Emergency Light EVE B0408 Replacement Batteries.</li>
+<li>Mfgr Part # 175-8070</li>
+<li>Dimensions: 1.8 in. L x 0.92 in. W x 0.58 H in.</li>
+<li>Weight: 0.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Neptolux.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Neptolux</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-CM015SL</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779410809009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>CS-CM015SL.2</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779401142449</id>
+    <published>2021-06-17T21:13:47-04:00</published>
+    <updated>2021-06-17T21:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/lithonia-elb1208-elb1208n-osa195-replacement-battery"/>
+    <title>Lithonia ELB1208 ELB1208N OSA195 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC120LS-1.jpg?v=1624368803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            112.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Lithonia Emergency Light Battery</li>
+<li>Volts: 12V (12 Volts)</li>
+<li>Capacity: 7000mAh (7Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Lithonia ELB1208 ELB1208N OSA195 Replacement Batteries.</li>
+<li>Mfgr Part # B310004 OSA052</li>
+<li>Dimensions: 7.01 in. L x 3.59 in. W x 2.4 H in.</li>
+<li>Weight: 4.4 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Lithonia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Lithonia</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC120LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779401142449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.59</s:price>
+      <s:sku>CS-EMC120LS</s:sku>
+      <s:grams>1996</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779401109681</id>
+    <published>2021-06-17T21:13:47-04:00</published>
+    <updated>2021-06-17T21:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/lithonia-elb0502n-elb4714n-elb4814n-enb048015-nic0-replacement-battery"/>
+    <title>Lithonia ELB0502N ELB4714N ELB4814N ENB048015 NIC0 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC058LS-1.jpg?v=1624368814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Lithonia Emergency Light Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 2000mAh (2Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Lithonia ELB0502N ELB4714N ELB4814N ENB048015 NIC0095 OSA058SC Prescolite E2377-01-00 Replacement Batteries.</li>
+<li>Mfgr Part # CUSTOM-45</li>
+<li>Dimensions: 3.51 in. L x 1.8 in. W x 0.89 H in.</li>
+<li>Weight: 0.6 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Lithonia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Lithonia</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC058LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779401109681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.29</s:price>
+      <s:sku>CS-EMC058LS</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779401044145</id>
+    <published>2021-06-17T21:13:45-04:00</published>
+    <updated>2021-06-17T21:13:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/lithonia-1009s00-mz-elb0320-elb1p201nb-osa212-replacement-battery"/>
+    <title>Lithonia 1009S00-MZ ELB0320 ELB1P201NB OSA212 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC201LS-1.jpg?v=1624368834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Lithonia Emergency Light Battery</li>
+<li>Volts: 1.2V (1.2 Volts)</li>
+<li>Capacity: 3000mAh (3Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Lithonia 1009S00-MZ ELB0320 ELB1P201NB OSA212 Replacement Batteries.</li>
+<li>Dimensions: 1.74 in. L x 1 in. W x 0.89 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Lithonia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Lithonia</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC201LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779401044145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>CS-EMC201LS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779358904497</id>
+    <published>2021-06-17T21:02:21-04:00</published>
+    <updated>2021-06-17T21:02:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/baes-ova-td210331-replacement-battery"/>
+    <title>Baes OVA TD210331 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-BSA331LS-1.jpg?v=1624735160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Baes Emergency Light Battery</li>
+<li>Volts: 3.6V (3.6 Volts)</li>
+<li>Capacity: 2500mAh (2.5Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Baes OVA TD210331 Replacement Batteries.</li>
+<li>Mfgr Part # 329055240</li>
+<li>Dimensions: 5.84 in. L x 1.12 in. W x 1.02 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Baes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Baes</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-BSA331LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779358904497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>CS-BSA331LS</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779357528241</id>
+    <published>2021-06-17T21:01:49-04:00</published>
+    <updated>2021-06-17T21:01:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/baes-ova-ova-38459-replacement-battery"/>
+    <title>Baes OVA OVA 38459 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-BSA459LS-1.jpg?v=1624735177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Baes Emergency Light Battery</li>
+<li>Volts: 4.8V (4.8 Volts)</li>
+<li>Capacity: 800mAh (0.8Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Baes OVA OVA 38459 Replacement Batteries.</li>
+<li>Mfgr Part # TD512433</li>
+<li>Dimensions: 3.89 in. L x 0.67 in. W x 0.57 H in.</li>
+<li>Weight: 0.3 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Baes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Baes</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-BSA459LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779357528241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CS-BSA459LS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779357495473</id>
+    <published>2021-06-17T21:01:48-04:00</published>
+    <updated>2021-06-17T21:01:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/baes-fluo-evac-ova-td310632-replacement-battery"/>
+    <title>Baes FLUO EVAC OVA TD310632 Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-BSA632LS-1.jpg?v=1624735195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Baes Emergency Light Battery</li>
+<li>Volts: 7.2V (7.2 Volts)</li>
+<li>Capacity: 1600mAh (1.6Ah)</li>
+<li>Type: Ni-CD</li>
+<li>Color: Green</li>
+<li>Baes FLUO EVAC OVA TD310632 Replacement Batteries.</li>
+<li>Mfgr Part # 329045490</li>
+<li>Dimensions: 10.16 in. L x 1.01 in. W x 0.9 H in.</li>
+<li>Weight: 1.2 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Baes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Baes</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-BSA632LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779357495473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.29</s:price>
+      <s:sku>CS-BSA632LS</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6779262959793</id>
+    <published>2021-06-17T20:27:11-04:00</published>
+    <updated>2021-06-17T20:27:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/unitech-bbat0043a-replacement-battery"/>
+    <title>Unitech BBAT0043A Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>Cameron Sino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/CS-EMC003LS-1_9ef38571-42eb-4cde-add1-a6471cc25ff7.jpg?v=1624321894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cameron Sino<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            41.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>This is a replacement compatible with a Unitech Emergency Light Battery</li>
+<li>Volts: 9.6V (9.6 Volts)</li>
+<li>Capacity: 1800mAh (1.8Ah)</li>
+<li>Type: Ni-MH</li>
+<li>Color: Green</li>
+<li>Unitech BBAT0043A Replacement Batteries.</li>
+<li>Dimensions: 7.89 in. L x 1.14 in. W x 0.57 H in.</li>
+<li>Weight: 0.8 lb</li>
+<li>Warranty: 1 Year</li>
+</ul><p>Disclaimer: Our products are not affiliated with or authorized by Unitech.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Unitech</s:tag>
+    <s:tag>CS</s:tag>
+    <s:tag>CS-EMC003LS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6779262959793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.59</s:price>
+      <s:sku>CS-EMC003LS.2</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970406979</id>
+    <published>2020-05-21T15:25:56-04:00</published>
+    <updated>2020-05-21T15:25:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/portalac-gs-tev12210-12v-22ah-emergency-light-replacement-battery"/>
+    <title>Portalac GS TEV12210 12V 22Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_526dc6ee-0a52-49d3-9464-e90e17b5aa77.jpg?v=1620639964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Portalac GS TEV12210 Emergency Light Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Portalac<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/emergency-light-battery-replacement" target="_blank" title="Emergency Light Battery Replacement" rel="noopener noreferrer">Click here for emergency light battery resources:</a><ul>
+<li>Replacing Your Emergency Light Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Emergency Light Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Portalac</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970406979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-B-0-120341</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4439467982915</id>
+    <published>2020-04-20T23:56:27-04:00</published>
+    <updated>2020-04-20T23:56:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/eaglepicher-r-cf12v9-12v-9ah-emergency-light-replacement-battery"/>
+    <title>EaglePicher r CF12V9 12V 9Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D9S_6efb32dd-64f1-45db-9b19-9dd35521212a.jpg?v=1620639911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with EaglePicher r CF12V9 Emergency Light Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by EaglePicher<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D9S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 9Ah</li>
+<li>Terminals: F1</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li> <li>Weight: 5.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/emergency-light-battery-replacement" target="_blank" title="Emergency Light Battery Replacement" rel="noopener noreferrer">Click here for emergency light battery resources:</a><ul>
+<li>Replacing Your Emergency Light Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Emergency Light Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D9S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_EaglePicher</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4439467982915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-V-0-188539</s:sku>
+      <s:grams>2631</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4439467950147</id>
+    <published>2020-04-20T23:56:26-04:00</published>
+    <updated>2020-04-20T23:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/portalac-lac-pxl12090-12v-9ah-emergency-light-replacement-battery"/>
+    <title>Portalac lac PXL12090 12V 9Ah Emergency Light Replacement Battery</title>
+    <s:type>Emergency Light</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D9S_3a580f67-0e56-4cce-b070-b6763282e007.jpg?v=1620639918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Emergency Light<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Portalac lac PXL12090 Emergency Light Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Portalac<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D9S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 9Ah</li>
+<li>Terminals: F1</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li> <li>Weight: 5.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/emergency-light-battery-replacement" target="_blank" title="Emergency Light Battery Replacement" rel="noopener noreferrer">Click here for emergency light battery resources:</a><ul>
+<li>Replacing Your Emergency Light Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Emergency Light Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D9S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Portalac</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4439467950147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-V-0-188157</s:sku>
+      <s:grams>2631</s:grams>
+    </s:variant>
+  </entry>
+</feed>

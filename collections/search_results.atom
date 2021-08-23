@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/search_results.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2018-01-31T00:38:25-05:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/933398118443</id>
+    <published>2018-01-31T00:38:25-05:00</published>
+    <updated>2018-01-31T00:38:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/21st-century-1cp1fl-12v-100ah-wheelchair-battery"/>
+    <title>21st Century Scientific 1CP1FL 12V 100Ah Wheelchair Replacement Battery</title>
+    <s:type>Wheelchair</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D100S_153fe8a5-2ef6-426b-b509-5282645dd205.jpg?v=1620615886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Wheelchair<br>
+        <strong>Price: </strong>
+            311.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with 21st Century Scientific 1CP1FL Wheelchair Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by 21st Century Scientific<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D100S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 100Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 13.07 in</li>
+<li>Width 6.89 in</li>
+<li>Height 8.7 in</li> <li>Weight: 69 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D100S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/wheelchair-battery-replacement" target="_blank" title="Wheelchair Battery Replacement" rel="noopener noreferrer">Click here for wheelchair battery resources:</a><ul>
+<li>Replacing Your Wheelchair Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Wheelchair Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D100S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_21st Century Scientific</s:tag>
+    <s:tag>on-eBay-Yes</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/933398118443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>CA-AJC-D100S-A-1-118021</s:sku>
+      <s:grams>31400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/powersports-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-01-22T15:13:05-05:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224312107185</id>
+    <published>2021-01-22T15:13:05-05:00</published>
+    <updated>2021-01-22T15:13:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yuasa-ytz7s-powersports-replacement-battery"/>
+    <title>Yuasa YTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_9a9770b8-ac55-4b8d-931c-92f3981f1f7f.jpg?v=1627097015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Yuasa YTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Yuasa.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Yuasa</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224312107185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500403</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224312041649</id>
+    <published>2021-01-22T15:13:04-05:00</published>
+    <updated>2021-01-22T15:13:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sigmastek-stz7s-powersports-replacement-battery"/>
+    <title>SigmasTek STZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_0f68340b-7f1a-46fd-b16c-aa1f2217aca6.jpg?v=1627097016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with SigmasTek STZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by SigmasTek.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_SigmasTek</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224312041649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500347</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224311845041</id>
+    <published>2021-01-22T15:13:00-05:00</published>
+    <updated>2021-01-22T15:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/scorpion-ytz7s-powersports-replacement-battery"/>
+    <title>Scorpion YTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_a73cf18e-bd3d-4054-9efc-f6d031b0310a.jpg?v=1627097013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Scorpion YTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Scorpion.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Scorpion</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224311845041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500314</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224311812273</id>
+    <published>2021-01-22T15:12:59-05:00</published>
+    <updated>2021-01-22T15:12:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/gs-jsb-gtz7s-powersports-replacement-battery"/>
+    <title>GS-JSB GTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_12357703-cc6e-427f-9037-e2e21bbdf330.jpg?v=1627097001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with GS-JSB GTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by GS-JSB.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_GS-JSB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224311812273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500139</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224311615665</id>
+    <published>2021-01-22T15:12:57-05:00</published>
+    <updated>2021-01-22T15:12:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-source-wpz7s-powersports-replacement-battery"/>
+    <title>Power Source WPZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_72410671-02ef-4590-8ef6-d2f458976804.jpg?v=1627097014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Source WPZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Power Source.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Power Source</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224311615665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500297</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224311353521</id>
+    <published>2021-01-22T15:12:55-05:00</published>
+    <updated>2021-01-22T15:12:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-max-gtz7s-powersports-replacement-battery"/>
+    <title>Power Max GTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_b430e24d-fc23-4f26-b03d-24148f38cbb8.jpg?v=1627097008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Max GTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Power Max.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Power Max</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224311353521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500241</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224311255217</id>
+    <published>2021-01-22T15:12:53-05:00</published>
+    <updated>2021-01-22T15:12:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motocross-m727zs-powersports-replacement-battery"/>
+    <title>Motocross M727ZS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_3d8b8693-624b-4ad0-8e12-2185742c09d9.jpg?v=1627097009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Motocross M727ZS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Motocross.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Motocross</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224311255217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500206</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224311025841</id>
+    <published>2021-01-22T15:12:49-05:00</published>
+    <updated>2021-01-22T15:12:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/motobatt-mbtz7s-powersports-replacement-battery"/>
+    <title>Motobatt MBTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_732b0c08-b10d-4b34-b88d-d2518fd8e4ef.jpg?v=1627097006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Motobatt MBTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Motobatt.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Motobatt</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224311025841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500188</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224310927537</id>
+    <published>2021-01-22T15:12:45-05:00</published>
+    <updated>2021-01-22T15:12:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/kinetik-aptz7s-powersports-replacement-battery"/>
+    <title>Kinetik APTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_ec7264fe-7166-468a-94e1-d58229229c13.jpg?v=1627097006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Kinetik APTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Kinetik.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Kinetik</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224310927537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500176</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224310862001</id>
+    <published>2021-01-22T15:12:43-05:00</published>
+    <updated>2021-01-22T15:12:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/extreme-xtaz7s-powersports-replacement-battery"/>
+    <title>Extreme XTAZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_903b774d-0709-439f-b125-6f121463053e.jpg?v=1627097002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Extreme XTAZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Extreme.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Extreme</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224310862001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500113</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224310829233</id>
+    <published>2021-01-22T15:12:39-05:00</published>
+    <updated>2021-01-22T15:12:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/chrome-ytz7s-bs-powersports-replacement-battery"/>
+    <title>Chrome YTZ7S-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_3d42cec4-4d81-4a9b-84c2-db733e50b0ef.jpg?v=1627097000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Chrome YTZ7S-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Chrome.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Chrome</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224310829233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500060</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224310796465</id>
+    <published>2021-01-22T15:12:38-05:00</published>
+    <updated>2021-01-22T15:12:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/champion-tz7s-powersports-replacement-battery"/>
+    <title>Champion TZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_4eecb52b-1a88-4349-aa69-9f49272e18b9.jpg?v=1627096995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Champion TZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Champion.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Champion</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224310796465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500040</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224310730929</id>
+    <published>2021-01-22T15:12:38-05:00</published>
+    <updated>2021-01-22T15:12:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/champion-t6b-3-powersports-replacement-battery"/>
+    <title>Champion T6B-3 Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_05a85586-d390-464d-983e-520e6e9b4c8c.jpg?v=1627096999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Champion T6B-3 Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Champion.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Champion</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224310730929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500036</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224310567089</id>
+    <published>2021-01-22T15:12:33-05:00</published>
+    <updated>2021-01-22T15:12:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/adventure-power-utz7s-powersports-replacement-battery"/>
+    <title>Adventure Power UTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_8116f3c4-92ad-4b04-87cf-fba042fd694a.jpg?v=1627096993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Adventure Power UTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Adventure Power.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Adventure Power</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224310567089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-500017</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224309911729</id>
+    <published>2021-01-22T15:12:10-05:00</published>
+    <updated>2021-01-22T15:12:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/gs-gt6b-3-powersports-replacement-battery"/>
+    <title>GS GT6B-3 Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_1ddf95ce-591e-4f0c-a2ef-336eb33e9aed.jpg?v=1627097330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with GS GT6B-3 Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by GS.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ZZZ-Order-ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_GS</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224309911729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-528507</s:sku>
+      <s:grams>2180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224309846193</id>
+    <published>2021-01-22T15:12:08-05:00</published>
+    <updated>2021-01-22T15:12:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/interstate-faytz7s-powersports-replacement-battery"/>
+    <title>Interstate FAYTZ7S Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_4f5262bf-b5ee-4bf0-80b4-2eb354fbaf51.jpg?v=1627097326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Interstate FAYTZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Interstate.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ZZZ-Order-ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_Interstate</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224309846193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S-528506</s:sku>
+      <s:grams>2180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6224299557041</id>
+    <published>2021-01-22T15:07:53-05:00</published>
+    <updated>2021-01-22T15:07:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-r-atz7s-powersports-battery"/>
+    <title>AJC® ATZ7S Powersports Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ7S_a70c9f0d-497f-4aa2-891c-de8d929029bc.jpg?v=1627096992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® ATZ7S Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 6Ah</li>
+<li>Cold Cranking Amps: 90</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 4.45 x W2.76 x H 4.21 inches</li>
+<li>Weight: 4.8 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ZZZ-Order-ATZ7S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ7S-BS</li>
+<li>YTZ7S</li>
+<li>ATZ7SBS</li>
+<li>GTZ7SFP</li>
+<li>XTAZ7S</li>
+<li>CYLAZ7SXTA</li>
+<li>SSTZ7S-FP</li>
+<li>BTZ7S</li>
+<li>ETZ7S</li>
+<li>TZ7S</li>
+<li>FAYTZ7S</li>
+<li>STZ7S</li>
+<li>WPZ7S</li>
+<li>MBTZ7S</li>
+</ul></td>
+<td><ul>
+<li>M727ZS</li>
+<li>PTZ7S-BS</li>
+<li>PTZ7S</li>
+<li>GTZ7S</li>
+<li>APTZ7S</li>
+<li>APTZ7S-BS</li>
+<li>UTZ7S</li>
+<li>UTZ7S-BS</li>
+<li>ES-TZ7S</li>
+<li>ESTZ7S</li>
+<li>CTZ7S</li>
+<li>CTZ7S-BS</li>
+<li>CT6B-3</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ7S</s:tag>
+    <s:tag>Brand_AJC PS Battery</s:tag>
+    <s:tag>Master Product</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6224299557041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ7S</s:sku>
+      <s:grams>2180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659863107</id>
+    <published>2020-05-26T15:38:02-04:00</published>
+    <updated>2020-05-26T15:38:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/yuasa-ytx20hl-powersports-replacement-battery"/>
+    <title>Yuasa YTX20HL Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_73149bec-1704-40cb-8cc0-93263928caa5.jpg?v=1627082909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Yuasa YTX20HL Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Yuasa.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_Yuasa</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659863107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL-500392</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659830339</id>
+    <published>2020-05-26T15:38:02-04:00</published>
+    <updated>2020-05-26T15:38:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sigmastek-stx20hl-bs-powersports-replacement-battery"/>
+    <title>SigmasTek STX20HL-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_8aacdd31-c866-41a6-a97e-9c8431a7fc56.jpg?v=1627082906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with SigmasTek STX20HL-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by SigmasTek.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_SigmasTek</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659830339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL-500336</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659797571</id>
+    <published>2020-05-26T15:38:01-04:00</published>
+    <updated>2020-05-26T15:38:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-source-wpx20l-bs-powersports-replacement-battery"/>
+    <title>Power Source WPX20L-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_7f19f1c6-011f-472e-bd00-0fbd741fb993.jpg?v=1627082905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Source WPX20L-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Power Source.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_Power Source</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659797571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL-500289</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659732035</id>
+    <published>2020-05-26T15:37:58-04:00</published>
+    <updated>2020-05-26T15:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/chrome-20hl-bs-powersports-replacement-battery"/>
+    <title>Chrome 20HL-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_dc488a4f-8286-4dcf-99a8-cf75709c16a0.jpg?v=1627082902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Chrome 20HL-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Chrome.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_Chrome</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659732035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL-500047</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659699267</id>
+    <published>2020-05-26T15:37:58-04:00</published>
+    <updated>2020-05-26T15:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/champion-20-bs-powersports-replacement-battery"/>
+    <title>Champion 20-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_e1bee205-fbcf-46e1-9606-5e6615e7bd45.jpg?v=1627082899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Champion 20-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Champion.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_Champion</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659699267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL-500031</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659666499</id>
+    <published>2020-05-26T15:37:58-04:00</published>
+    <updated>2020-05-26T15:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-max-gtx20hl-bs-powersports-replacement-battery"/>
+    <title>Power Max GTX20HL-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_c93ac690-0033-4595-83e0-26780394d32a.jpg?v=1627082902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Max GTX20HL-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Power Max.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_Power Max</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659666499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL-500230</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4481659633731</id>
+    <published>2020-05-26T15:37:58-04:00</published>
+    <updated>2020-05-26T15:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-r-atx20hl-powersports-battery"/>
+    <title>AJC® ATX20HL Powersports Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATX20HL_b3ea9ca4-33e4-4a9c-867c-ab3c973e5879.jpg?v=1627082897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            70.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® ATX20HL Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 20Ah</li>
+<li>Cold Cranking Amps: 310</li>
+<li>Polarity: -/+</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 6.89 x W3.43 x H 6.14 inches</li>
+<li>Weight: 13.17 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATX20HL replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTX20HL-BS</li>
+<li>YTX20HL</li>
+<li>YTX20HLBS</li>
+<li>YIX20HL</li>
+<li>YIX20HL-BS</li>
+<li>GYZ20HL</li>
+<li>ATX20HLBS</li>
+<li>20HL-BS</li>
+<li>XTAX20HL-BS</li>
+<li>DURAGM-20L-US</li>
+<li>CYL10008</li>
+<li>CYL10019</li>
+<li>X2-20L</li>
+<li>CYLA20HLBSXTA</li>
+<li>SSTX20HQ-FP</li>
+<li>BTX20HL-BS</li>
+<li>B2015</li>
+<li>M00004-00000</li>
+<li>ETX20HL</li>
+<li>ETX-20HL</li>
+<li>DTX20L</li>
+<li>SC20HLBS</li>
+</ul></td>
+<td><ul>
+<li>SC20HLFA</li>
+<li>FAYTX20HL-BS</li>
+<li>CYTX20HL-BS</li>
+<li>STX20HL-BS</li>
+<li>EBX20HL-BS</li>
+<li>EB20H-3</li>
+<li>12V20L</li>
+<li>WCP20L</li>
+<li>MBTX20U</li>
+<li>M720BH</li>
+<li>M620BH</li>
+<li>PTX20HL-BS</li>
+<li>PTX20HL</li>
+<li>GTX20HL-BS</li>
+<li>APTX20HL</li>
+<li>APTX20HL-BS</li>
+<li>UBVT-1</li>
+<li>UTX20HL-BS</li>
+<li>ES20HLBS</li>
+<li>CTX20HL</li>
+<li>CTX20HL-BS-FA</li>
+<li>CTX20HL-BS</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATX20HL</s:tag>
+    <s:tag>Brand_AJC PS Battery</s:tag>
+    <s:tag>Master Product</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4481659633731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.89</s:price>
+      <s:sku>CA-AJC-PS-ATX20HL</s:sku>
+      <s:grams>5987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4428850528323</id>
+    <published>2020-04-12T15:01:55-04:00</published>
+    <updated>2020-04-12T15:01:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/chrome-ytz14s-bs-powersports-replacement-battery"/>
+    <title>Chrome YTZ14S-BS Powersports Replacement Battery</title>
+    <s:type>Powersports</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-PS-ATZ12S_d97dec4f-870c-4aa3-9185-eb6dbef121a3.jpg?v=1627096603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Powersports<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Chrome YTZ14S-BS Powersports Battery</li>
+<li>Factory activated, this battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement Powersports Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt, snow and water can dish out</li>
+</ul><strong>Disclaimer:</strong> Our products are not affiliated with or authorized by Chrome.<h5>Specs</h5><ul>
+<li>Voltage: 12V</li>
+<li>Capacity: 11Ah</li>
+<li>Cold Cranking Amps: 210</li>
+<li>Polarity: +/-</li>
+<li>Terminal: B</li>
+<li>Dimensions: L 5.94 x W3.46 x H 4.33 inches</li>
+<li>Weight: 7.49 lbs</li>
+</ul><h5>Cross Reference</h5><h4>AJC ATZ12S replaces:</h4><table style="width: 100%"><tr>
+<td><ul>
+<li>YTZ12S-BS</li>
+<li>YTZ12S</li>
+<li>YTZ12SBS</li>
+<li>ATZ12SBS</li>
+<li>XTAZ12S</li>
+<li>CYLAZ12SXTA</li>
+<li>BTZ12S</li>
+<li>ETZ12S</li>
+<li>ETZ-12S</li>
+<li>TZ12S</li>
+<li>FAYTZ12S</li>
+<li>STZ12ST</li>
+<li>STZ12S</li>
+</ul></td>
+<td><ul>
+<li>EBZ12-4-1</li>
+<li>WPZ12S</li>
+<li>MBTX9U</li>
+<li>M7212A</li>
+<li>PTZ12S-BS</li>
+<li>PTZ12S</li>
+<li>GTZ12S</li>
+<li>APTZ12S</li>
+<li>APTZ12S-BS</li>
+<li>UTZ12S</li>
+<li>UTZ12S-BS</li>
+<li>CTZ12S-BS</li>
+<li>CTZ12S</li>
+</ul></td>
+</tr></table><h5>Resources</h5><a href="/pages/powersports-battery-replacement" target="_blank" title="Powersports Battery Replacement" rel="noopener noreferrer">Click here for powersports battery resources:</a><ul>
+<li>Replacing Your Powersports Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Powersports Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-PS</s:tag>
+    <s:tag>AJC-PS-ATZ12S</s:tag>
+    <s:tag>Brand_Chrome</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4428850528323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>CA-AJC-PS-ATZ12S-528272</s:sku>
+      <s:grams>3397</s:grams>
+    </s:variant>
+  </entry>
+</feed>

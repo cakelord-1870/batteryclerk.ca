@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/sealed-lead-acid-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2021-07-24T15:32:49-04:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838241296561</id>
+    <published>2021-07-24T15:32:49-04:00</published>
+    <updated>2021-07-24T15:32:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/interstate-12v-8-5ah-12v-9ah-sealed-lead-acid-battery"/>
+    <title>Interstate 12V 9Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838241296561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-D9S-C-0-161144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838221865137</id>
+    <published>2021-07-24T14:53:19-04:00</published>
+    <updated>2021-07-24T14:53:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-tank-mx12070-12v-7ah-sealed-lead-acid-battery"/>
+    <title>Power Tank MX12070 12V 7Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838221865137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-D7S-A-1-161859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6838207709361</id>
+    <published>2021-07-24T14:08:33-04:00</published>
+    <updated>2021-07-24T14:08:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/interstate-12v-24ah-12v-26ah-sealed-lead-acid-battery"/>
+    <title>Interstate 12V 26Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk.ca<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6838207709361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CA-AJC-D26S-C-0-163085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474973388867</id>
+    <published>2020-05-21T15:27:47-04:00</published>
+    <updated>2020-05-21T15:27:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-source-wp9-4-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Power Source WP9-4 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_be413ccb-2606-4cd0-9462-f813cf022a44.jpg?v=1620640051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Source WP9-4 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Power Source<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Power Source</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474973388867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-2-183157</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474973323331</id>
+    <published>2020-05-21T15:27:46-04:00</published>
+    <updated>2020-05-21T15:27:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/warrior-wr6-10-f1-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Warrior WR6-10 F1 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_7bf6ed0e-8899-43c8-94fe-d1f7979695cf.jpg?v=1620640045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Warrior WR6-10 F1 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Warrior<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Warrior</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474973323331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-2-183154</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474973061187</id>
+    <published>2020-05-21T15:27:32-04:00</published>
+    <updated>2020-05-21T15:27:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vision-x-xpc-400-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Vision X XPC-400 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_d923f71f-08b4-446a-a6f8-8e08e4296e3a.jpg?v=1620640038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Vision X XPC-400 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Vision<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Vision</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474973061187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-0-183147</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474972930115</id>
+    <published>2020-05-21T15:27:29-04:00</published>
+    <updated>2020-05-21T15:27:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-source-wp2-3-12-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Power Source WP2.3-12 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_d0bcf093-4535-4398-9b9f-2b07a531a3c0.jpg?v=1620640034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Source WP2.3-12 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Power Source<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Power Source</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474972930115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-0-183146</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474972897347</id>
+    <published>2020-05-21T15:27:27-04:00</published>
+    <updated>2020-05-21T15:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/unipower-wp2-8-12-f1-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Unipower WP2.8-12 F1 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_7fbba20c-f373-427f-828c-f9aad3603800.jpg?v=1620640043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Unipower WP2.8-12 F1 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Unipower<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Unipower</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474972897347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-0-183145</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474972864579</id>
+    <published>2020-05-21T15:27:27-04:00</published>
+    <updated>2020-05-21T15:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/unipower-wp5612-f1-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Unipower WP5612 F1 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_95661b86-6f36-4d2c-b8d4-fa01550cd0b1.jpg?v=1620640033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Unipower WP5612 F1 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Unipower<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Unipower</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474972864579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-0-183144</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474972799043</id>
+    <published>2020-05-21T15:27:24-04:00</published>
+    <updated>2020-05-21T15:27:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sigmastek-12-22hr-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>SigmasTek 12-22HR 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_5cc11c7e-84ee-4596-b947-dfc473e4d306.jpg?v=1620640030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with SigmasTek 12-22HR Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by SigmasTek<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_SigmasTek</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474972799043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-J-0-154204</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970374211</id>
+    <published>2020-05-21T15:25:53-04:00</published>
+    <updated>2020-05-21T15:25:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/century-es1240-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Century ES1240 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_16497255-1338-406d-825d-74dd657cd70c.jpg?v=1620639961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Century ES1240 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Century<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Century</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970374211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-2-154155</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970341443</id>
+    <published>2020-05-21T15:25:53-04:00</published>
+    <updated>2020-05-21T15:25:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/century-es6000-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Century ES6000 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_0278c227-ead1-4358-a93f-38501979206a.jpg?v=1620639960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Century ES6000 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Century<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Century</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970341443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-2-154154</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970308675</id>
+    <published>2020-05-21T15:25:50-04:00</published>
+    <updated>2020-05-21T15:25:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/century-es8500-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Century ES8500 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_673cff4d-ba3a-4002-ba81-f0eb10514921.jpg?v=1620639960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Century ES8500 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Century<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Century</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970308675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-2-154153</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970275907</id>
+    <published>2020-05-21T15:25:50-04:00</published>
+    <updated>2020-05-21T15:25:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/vision-hp12-116w-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Vision HP12-116W 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_93956d29-5aae-4945-91ab-0eaf5008bcae.jpg?v=1620639956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Vision HP12-116W Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Vision<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Vision</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970275907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154151</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970243139</id>
+    <published>2020-05-21T15:25:45-04:00</published>
+    <updated>2020-05-21T15:25:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sunnyway-sw12200-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Sunnyway SW12200 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_98c92e56-2b4e-4437-8f1e-0d8f67da5e2a.jpg?v=1620639958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Sunnyway SW12200 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Sunnyway<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Sunnyway</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970243139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154150</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970210371</id>
+    <published>2020-05-21T15:25:45-04:00</published>
+    <updated>2020-05-21T15:25:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/pbq-40hr-12-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>PBQ 40HR-12 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_d536565a-eb52-4555-a7ce-6cf07ab3e197.jpg?v=1620639955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with PBQ 40HR-12 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by PBQ<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_PBQ</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970210371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154147</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970177603</id>
+    <published>2020-05-21T15:25:44-04:00</published>
+    <updated>2020-05-21T15:25:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/mk-es20-12c-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>MK ES20-12C 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_9025e18e-c107-4ca2-b4cf-1b1c18f0d92b.jpg?v=1620639956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with MK ES20-12C Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by MK<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_MK</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970177603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154145</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970079299</id>
+    <published>2020-05-21T15:25:38-04:00</published>
+    <updated>2020-05-21T15:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/b-b-eb20-12-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>B&amp;B EB20-12 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_40030734-f9a8-479c-82b0-46e9482e01aa.jpg?v=1620639950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with B&amp;B EB20-12 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by B&amp;B<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_B&amp;B</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970079299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154138</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970046531</id>
+    <published>2020-05-21T15:25:38-04:00</published>
+    <updated>2020-05-21T15:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/enersys-npx-80bfr-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Enersys NPX-80BFR 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_ecbb7e8c-5277-4ccd-a35e-96713ee079dc.jpg?v=1620639951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Enersys NPX-80BFR Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Enersys<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Enersys</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970046531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154142</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474970013763</id>
+    <published>2020-05-21T15:25:37-04:00</published>
+    <updated>2020-05-21T15:25:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/diamec-dmu12-20-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>Diamec DMU12-20 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_67c8a7cf-ad3c-465b-8768-bb2b5ebe99ad.jpg?v=1620639949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Diamec DMU12-20 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Diamec<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Diamec</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474970013763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154140</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4474969980995</id>
+    <published>2020-05-21T15:25:37-04:00</published>
+    <updated>2020-05-21T15:25:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/hkbil-6fm20-12v-22ah-sealed-lead-acid-replacement-battery"/>
+    <title>HKbil 6FM20 12V 22Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D22S_b8edff35-5a0d-46c4-ae9c-540ba9e6f053.jpg?v=1620639953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            78.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with HKbil 6FM20 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by HKbil<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D22S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 22Ah</li>
+<li>Terminals: NB</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 7.09 in</li>
+<li>Width 3.03 in</li>
+<li>Height 6.57 in</li>
+<li>Weight: 13.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/BatteryClerk-AJC-Battery-AJC-D22S.pdf?v=1589990247" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D22S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_HKbil</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4474969980995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.89</s:price>
+      <s:sku>CA-AJC-D22S-A-1-154144</s:sku>
+      <s:grams>5942</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4439468933187</id>
+    <published>2020-04-20T23:56:54-04:00</published>
+    <updated>2020-04-20T23:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sunnyway-sw1234w-12v-9ah-sealed-lead-acid-replacement-battery"/>
+    <title>Sunnyway SW1234W 12V 9Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D9S_0f2b71fb-36c4-420c-a61c-7398ad577437.jpg?v=1620639937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Sunnyway SW1234W Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Sunnyway<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D9S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 9Ah</li>
+<li>Terminals: F1</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li> <li>Weight: 5.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D9S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Sunnyway</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4439468933187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-V-0-191628</s:sku>
+      <s:grams>2631</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4439468900419</id>
+    <published>2020-04-20T23:56:53-04:00</published>
+    <updated>2020-04-20T23:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/sunstone-power-spt12-9-12v-9ah-sealed-lead-acid-replacement-battery"/>
+    <title>SunStone Power SPT12-9 12V 9Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D9S_3dbbb37c-553d-4a84-b68c-569d65293186.jpg?v=1620639932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with SunStone Power SPT12-9 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by SunStone Power<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D9S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 9Ah</li>
+<li>Terminals: F1</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li> <li>Weight: 5.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D9S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_SunStone Power</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4439468900419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-V-0-191603</s:sku>
+      <s:grams>2631</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4439468736579</id>
+    <published>2020-04-20T23:56:49-04:00</published>
+    <updated>2020-04-20T23:56:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/bb-shr10-12-12v-9ah-sealed-lead-acid-replacement-battery"/>
+    <title>BB SHR10-12 12V 9Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D9S_81ff8d43-9b0a-490b-97d9-4853580b8c42.jpg?v=1620639931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with BB SHR10-12 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by BB<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D9S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 9Ah</li>
+<li>Terminals: F1</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li> <li>Weight: 5.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D9S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_BB</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4439468736579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-V-0-191552</s:sku>
+      <s:grams>2631</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/4439468703811</id>
+    <published>2020-04-20T23:56:48-04:00</published>
+    <updated>2020-04-20T23:56:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/power-kingdom-ps9-12-12v-9ah-sealed-lead-acid-replacement-battery"/>
+    <title>Power Kingdom PS9-12 12V 9Ah Sealed Lead Acid Replacement Battery</title>
+    <s:type>Sealed Lead Acid</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/AJC-D9S_6f82299f-06c8-4c3f-a8d4-643e87c0c9da.jpg?v=1620639928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>Sealed Lead Acid<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC® replacement compatible with Power Kingdom PS9-12 Sealed Lead Acid Battery</li> <li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>
+<strong>IMPORTANT: </strong>You <strong>MUST RE-USE:</strong> your existing cabling and hardware. These are <strong>replacement batteries</strong> only</li> <li>
+<strong>NOTE:</strong> It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li> <li>UL Recognized Component</li>
+<li>Backed by easy 30-day returns and 12-month warranty</li>
+</ul><strong>Disclaimer: </strong>Our products are not affiliated with or authorized by Power Kingdom<h5>Specs</h5><ul>
+<li>AJC® Replacement Batteries</li>
+<li>Part # AJC-D9S</li>
+<li>Voltage: 12V (12 Volts)</li> <li>Capacity: 9Ah</li>
+<li>Terminals: F1</li>
+<li>Chemistry: Sealed Lead Acid (AGM)</li>
+<li>Length 5.94 in</li>
+<li>Width 2.56 in</li>
+<li>Height 3.7 in</li> <li>Weight: 5.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2867/7354/files/BatteryClerk-AJC-Battery-D9S.pdf?8876048441346863915" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/sla-battery-replacement" target="_blank" title="Sealed Lead Acid Battery Replacement" rel="noopener noreferrer">Click here for sealed lead acid battery resources:</a><ul>
+<li>Replacing Your Sealed Lead Acid Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM Sealed Lead Acid Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-D9S</s:tag>
+    <s:tag>AJC-VRLA</s:tag>
+    <s:tag>Brand_Power Kingdom</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/4439468703811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>CA-AJC-D9S-V-0-191529</s:sku>
+      <s:grams>2631</s:grams>
+    </s:variant>
+  </entry>
+</feed>

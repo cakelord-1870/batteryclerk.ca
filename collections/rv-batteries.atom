@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://batteryclerk.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://batteryclerk.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://batteryclerk.ca/collections/rv-batteries.atom"/>
+  <title>BatteryClerk.ca</title>
+  <updated>2020-12-16T18:16:12-05:00</updated>
+  <author>
+    <name>BatteryClerk.ca</name>
+  </author>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682388657</id>
+    <published>2020-12-16T18:16:12-05:00</published>
+    <updated>2020-12-16T18:16:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-12v-105ah-deep-cycle-rv-battery"/>
+    <title>AJC 12V 105Ah Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/RVMA-105M_a8c1b3be-daa2-4468-8ddf-882f6c3d0ccc.jpg?v=1614108036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            305.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC deep cycle batteries provide sustained power for extended periods of time. Deep cycle batteries are ideal for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  12V 105Ah</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 105Ah</li>
+<li>Polarity: </li>
+<li>Terminal: IT(M8)</li>
+<li>Dimensions: L 12.99 x W6.85 x H 8.54 inches</li>
+<li>Weight: 68.4 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/RVMA-105M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V 105Ah</s:tag>
+    <s:tag>AJC-RVMA-105</s:tag>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682388657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">305.39</s:price>
+      <s:sku>CA-AJC-RVMA-105-700019</s:sku>
+      <s:grams>31026</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682355889</id>
+    <published>2020-12-16T18:16:12-05:00</published>
+    <updated>2020-12-16T18:16:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-12v-90ah-deep-cycle-rv-battery"/>
+    <title>AJC 12V 90Ah Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/RVMA-90M_1fca26c2-6f81-428e-8a78-9ccace245e4a.jpg?v=1614108108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            295.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC deep cycle batteries provide sustained power for extended periods of time. Deep cycle batteries are ideal for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  12V 90Ah</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 90Ah</li>
+<li>Polarity: </li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 12.05 x W6.61 x H 8.19 inches</li>
+<li>Weight: 66.2 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/RVMA-90M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V 90Ah</s:tag>
+    <s:tag>AJC-RVMA-90</s:tag>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682355889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">295.29</s:price>
+      <s:sku>CA-AJC-RVMA-90-700018</s:sku>
+      <s:grams>30028</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682290353</id>
+    <published>2020-12-16T18:16:10-05:00</published>
+    <updated>2020-12-16T18:16:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-27m-starting-rv-battery"/>
+    <title>AJC Group 27M Starting RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/SLI-27M_1b2d0803-d7cf-46b7-9902-fead402f50b5.jpg?v=1614108031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            286.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC Starting batteries deliver a large burst of power to easily start your engine.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 27M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 90Ah</li>
+<li>Cold Cranking Amps: 600</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 12.05 x W6.61 x H 8.19 inches</li>
+<li>Weight: 66.2 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/AJC-SLI-27M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>AJC-SLI-27M</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 27M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682290353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">286.79</s:price>
+      <s:sku>CA-AJC-SLI-27M-700015</s:sku>
+      <s:grams>30028</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682257585</id>
+    <published>2020-12-16T18:16:10-05:00</published>
+    <updated>2020-12-16T18:16:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-12v-75ah-deep-cycle-rv-battery"/>
+    <title>AJC 12V 75Ah Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/RVMA-75M_791a6d22-19b7-4338-a180-1de8471d0820.jpg?v=1614108034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            248.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC deep cycle batteries provide sustained power for extended periods of time. Deep cycle batteries are ideal for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  12V 75Ah</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 75Ah</li>
+<li>Polarity: </li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 10.2 x W6.61 x H 8.19 inches</li>
+<li>Weight: 55.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/RVMA-75M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12V 75Ah</s:tag>
+    <s:tag>AJC-RVMA-75</s:tag>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682257585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">248.39</s:price>
+      <s:sku>CA-AJC-RVMA-75-700017</s:sku>
+      <s:grams>24993</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682224817</id>
+    <published>2020-12-16T18:16:10-05:00</published>
+    <updated>2020-12-16T18:16:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-31m-starting-rv-battery"/>
+    <title>AJC Group 31M Starting RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/SLI-31M_1f519a85-fd43-4475-85fa-f0628a71637c.jpg?v=1614108035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            303.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC Starting batteries deliver a large burst of power to easily start your engine.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 31M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 100Ah</li>
+<li>Cold Cranking Amps: 800</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M8)</li>
+<li>Dimensions: L 12.99 x W6.85 x H 8.54 inches</li>
+<li>Weight: 68.4 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/AJC-SLI-31M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>AJC-SLI-31M</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 31M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682224817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">303.49</s:price>
+      <s:sku>CA-AJC-SLI-31M-700016</s:sku>
+      <s:grams>31026</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682192049</id>
+    <published>2020-12-16T18:16:09-05:00</published>
+    <updated>2020-12-16T18:16:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-24m-starting-rv-battery"/>
+    <title>AJC Group 24M Starting RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/SLI-24M_d282d4ae-cf69-483a-b5fc-4f52168d5524.jpg?v=1614108030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            225.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC Starting batteries deliver a large burst of power to easily start your engine.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 24M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 75Ah</li>
+<li>Cold Cranking Amps: 550</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 10.2 x W6.61 x H 8.19 inches</li>
+<li>Weight: 51.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/AJC-SLI-24M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>AJC-SLI-24M</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 24M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682192049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.29</s:price>
+      <s:sku>CA-AJC-SLI-24M-700014</s:sku>
+      <s:grams>23496</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682159281</id>
+    <published>2020-12-16T18:16:07-05:00</published>
+    <updated>2020-12-16T18:16:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-31m-deep-cycle-rv-battery"/>
+    <title>AJC Group 31M Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/RVMA-105M_cbbd8b53-c119-42da-93e6-1497b80cebcc.jpg?v=1614108028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            305.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC deep cycle batteries provide sustained power for extended periods of time. Deep cycle batteries are ideal for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 31M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 105Ah</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M8)</li>
+<li>Dimensions: L 12.99 x W6.85 x H 8.54 inches</li>
+<li>Weight: 68.4 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/RVMA-105M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-RVMA-105</s:tag>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 31M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682159281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">305.39</s:price>
+      <s:sku>CA-AJC-RVMA-105-700012</s:sku>
+      <s:grams>31026</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682126513</id>
+    <published>2020-12-16T18:16:07-05:00</published>
+    <updated>2020-12-16T18:16:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-27m-deep-cycle-rv-battery"/>
+    <title>AJC Group 27M Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/RVMA-90M_7a28a906-15e2-4932-b404-150f899fb63a.jpg?v=1614108027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            295.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC deep cycle batteries provide sustained power for extended periods of time. Deep cycle batteries are ideal for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 27M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 90Ah</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 12.05 x W6.61 x H 8.19 inches</li>
+<li>Weight: 66.2 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/RVMA-90M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-RVMA-90</s:tag>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 27M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682126513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">295.29</s:price>
+      <s:sku>CA-AJC-RVMA-90-700011</s:sku>
+      <s:grams>30028</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146682028209</id>
+    <published>2020-12-16T18:16:06-05:00</published>
+    <updated>2020-12-16T18:16:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-24m-deep-cycle-rv-battery"/>
+    <title>AJC Group 24M Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/RVMA-75M_2fea7363-4842-47ea-9bd1-b800637aa8c6.jpg?v=1614108022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            248.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC deep cycle batteries provide sustained power for extended periods of time. Deep cycle batteries are ideal for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 24M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 75Ah</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 10.2 x W6.61 x H 8.19 inches</li>
+<li>Weight: 55.1 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/RVMA-75M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-RVMA-75</s:tag>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 24M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146682028209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">248.39</s:price>
+      <s:sku>CA-AJC-RVMA-75-700010</s:sku>
+      <s:grams>24993</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146681962673</id>
+    <published>2020-12-16T18:16:05-05:00</published>
+    <updated>2020-12-16T18:16:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-31m-dual-purpose-starting-and-deep-cycle-rv-battery"/>
+    <title>AJC Group 31M Dual Purpose Starting and Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/SLI-31M_78071822-a4a9-4ab3-b86c-0cf53cd606a5.jpg?v=1614108021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            303.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC dual purpose batteries are designed for both starting and cycling. They provide high power for easy starting as well as reliable deep cycle power for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 31M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 100Ah</li>
+<li>Cold Cranking Amps: 800</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M8)</li>
+<li>Dimensions: L 12.99 x W6.85 x H 8.54 inches</li>
+<li>Weight: 68.4 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/AJC-SLI-31M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>AJC-SLI-31M</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 31M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146681962673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">303.49</s:price>
+      <s:sku>CA-AJC-SLI-31M-700009</s:sku>
+      <s:grams>31026</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146681929905</id>
+    <published>2020-12-16T18:16:05-05:00</published>
+    <updated>2020-12-16T18:16:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-27m-dual-purpose-starting-and-deep-cycle-rv-battery"/>
+    <title>AJC Group 27M Dual Purpose Starting and Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/SLI-27M_ea916d2f-e9dd-4cf1-93a1-701c4c16c008.jpg?v=1614108021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            286.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC dual purpose batteries are designed for both starting and cycling. They provide high power for easy starting as well as reliable deep cycle power for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 27M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 90Ah</li>
+<li>Cold Cranking Amps: 600</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 12.05 x W6.61 x H 8.19 inches</li>
+<li>Weight: 66.2 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/AJC-SLI-27M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>AJC-SLI-27M</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 27M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146681929905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">286.79</s:price>
+      <s:sku>CA-AJC-SLI-27M-700008</s:sku>
+      <s:grams>30028</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://batteryclerk.ca/products/6146681897137</id>
+    <published>2020-12-16T18:16:02-05:00</published>
+    <updated>2020-12-16T18:16:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://batteryclerk.ca/products/ajc-group-24m-dual-purpose-starting-and-deep-cycle-rv-battery"/>
+    <title>AJC Group 24M Dual Purpose Starting and Deep Cycle RV Battery</title>
+    <s:type>RV</s:type>
+    <s:vendor>BatteryClerk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2867/7354/products/SLI-24M_0ba0c317-f502-4e95-a0f4-5d42c6b59a02.jpg?v=1614108020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BatteryClerk<br>
+        <strong>Type: </strong>RV<br>
+        <strong>Price: </strong>
+            225.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Info</h5><ul>
+<li>AJC dual purpose batteries are designed for both starting and cycling. They provide high power for easy starting as well as reliable deep cycle power for running devices like a trailer, fish finder, radio, lights, refrigerator or your house battery.</li>
+<li>Non-spillable factory activated battery arrives fully sealed, charged and ready for action</li>
+<li>Maintenance free AGM technology, no need to add acid or water ever</li>
+<li>Exact OEM replacement guaranteed to fit easily and precisely</li>
+<li>High impact PP case for maximum vibration resistance</li>
+<li>AJC® Replacement RV Batteries</li>
+<li>You must re-use: your existing cabling and hardware. These are replacement batteries only</li>
+<li>It is your responsibility to verify the batteries being ordered match the batteries in your unit prior to placing your order. We are not responsible for incorrect orders</li>
+<li>Buy with confidence. Our batteries are backed by easy 30-day returns and a 12-month warranty</li>
+<li>Built to handle whatever the road, dirt and water can dish out</li>
+</ul><h5>Specs</h5><ul>
+<li>BCI  Group 24M</li>
+<li>Voltage: 12V</li>
+<li>Capacity: 75Ah</li>
+<li>Cold Cranking Amps: 550</li>
+<li>Polarity: +/-</li>
+<li>Terminal: IT(M6)</li>
+<li>Dimensions: L 10.2 x W6.61 x H 8.19 inches</li>
+<li>Weight: 51.8 lbs</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/0005/3175/9163/files/AJC-SLI-24M.pdf?v=1609443155" target="_blank" rel="noopener noreferrer">View Battery Specifications</a></p><h5>Resources</h5><a href="/pages/rv-battery-replacement" target="_blank" title="RV Battery Replacement" rel="noopener noreferrer">Click here for rv battery resources:</a><ul>
+<li>Replacing Your RV Battery</li>
+<li>Benefits of AJC® Replacement Batteries</li>
+<li>AGM RV Battery Care</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AJC-SLI</s:tag>
+    <s:tag>AJC-SLI-24M</s:tag>
+    <s:tag>Brand_AJC</s:tag>
+    <s:tag>Group 24M</s:tag>
+    <s:variant>
+      <id>https://batteryclerk.ca/products/6146681897137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.29</s:price>
+      <s:sku>CA-AJC-SLI-24M-700007</s:sku>
+      <s:grams>23496</s:grams>
+    </s:variant>
+  </entry>
+</feed>
